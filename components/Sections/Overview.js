@@ -9,6 +9,7 @@ const Overview = (props) => {
 			<Container>
 				
 				{/* <!-- Track time --> */}
+				<div id="factory" className="empty-100"></div>
 				<Row>
 					
 					{/* <!-- Content --> */}
@@ -16,7 +17,7 @@ const Overview = (props) => {
 							
 						{/* <!-- Section title --> */}
 						<div className="section-title text-center text-lg-start">
-							<h3>Track Time From Anywhere</h3>
+							<h3>Colmena Factory</h3>
 							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. </p>
 						</div>
 
@@ -76,7 +77,7 @@ const Overview = (props) => {
 					
 				</Row>
 				
-				<div className="empty-100"></div>
+				<div id="jelly" className="empty-100"></div>
 				
 				{/* <!-- Daily schedule --> */}
 				<Row>
@@ -86,7 +87,8 @@ const Overview = (props) => {
 							
 						{/* <!-- Section title --> */}
 						<div className="section-title text-center text-lg-start">
-							<h3>Built For Your Daily Schedule</h3>
+							<img className="img-jelly" src="/images/colmena/jellycoin.png" />
+							{/*<h3>Built For Your Daily Schedule</h3>*/}
 							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. </p>
 						</div>
 
@@ -117,7 +119,7 @@ const Overview = (props) => {
 
 						{/* <!-- Button --> */}
 						<p className="text-center text-lg-start">
-							<a href="#" className="btn">Learn More</a>
+							<a href="#" className="btn">Ver más</a>
 						</p>
 					
 					</Col>

@@ -5,7 +5,7 @@ import Header from "../components/Sections/Header";
 import Clients from "../components/Sections//Clients";
 import Features from "../components/Sections/Features";
 import ParallaxVideo from "../components/Sections/ParallaxVideo";
-import Services from "../components/Sections//Services";
+import How from "../components/Sections//How";
 import Overview from "../components/Sections/Overview";
 import Testimonials from "../components/Sections/Testimonials";
 import Counters from "../components/Sections/Counters";
@@ -29,18 +29,18 @@ const Index = () => (
         <Header nav="home" />
         <SingleImage />
         <Clients className="section-box bg-grey" />
-        <Services serviceClassName="service-single" />
-        <Features />
+        <How serviceClassName="service-single" />
         <ParallaxVideo />
-        <Overview />
-        <Testimonials />
-        <Counters />
-        <Team />
+        <Features />
         <Screenshots className="bg-grey" />
-        <Support />
-        <Subscribe />
-        <Blog />
-        <Pricing className="bg-grey" />
+        <Overview />
+         {/*<Testimonials />*/}
+         {/*<Counters />*/}
+        <Team />
+        {/*<Support />*/}
+        {/*<Subscribe />*/}
+        {/*<Blog />*/}
+        {/*<Pricing className="bg-grey" />*/}
         <Contact />
         <Footer />
         <ToTop />

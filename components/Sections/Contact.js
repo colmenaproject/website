@@ -23,7 +23,7 @@ const Contact = (props) => {
 					<div className="col-12 col-md-10 col-lg-6">
 						
 						<div className="section-title text-center">
-							<h3>Get In Touch</h3>
+							<h3>Contacto</h3>
 							<p>Nullam hendrerit massa quis dui egestas, id scelerisque felis rutrum. Etiam sem nibh, auctor sed, pharetra congue.</p>
                         </div>
 						

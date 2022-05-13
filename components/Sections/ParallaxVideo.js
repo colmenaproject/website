@@ -17,7 +17,7 @@ const ParallaxVideo = () => {
 
     return (
         <>
-            <ModalVideo channel='youtube' videoId="hs1HoLs4SD0" autoplay isOpen={isOpen} onClose={() => setOpen(false)} />
+            <ModalVideo channel='youtube' videoId="XC14Bb_h0t8" autoplay isOpen={isOpen} onClose={() => setOpen(false)} />
             
             <section id="parallax-video" className="parallax" data-image="/images/parallax/video.jpg" ref={parallax}>
         
@@ -39,7 +39,7 @@ const ParallaxVideo = () => {
                                 <i className="fas fa-play"></i>
                             </a>
 
-                            <span className="video-text">Watch This Video</span>
+                            <span className="video-text">Ver Video</span>
 
                         </div>
 

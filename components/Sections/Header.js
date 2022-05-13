@@ -30,13 +30,13 @@ const Header = (props) => {
                                     
                                     <Link href="/">
                                         <a className="navbar-brand navbar-brand1">
-                                            <img src="/images/logo-white.png" srcSet={`/images/logo-white@2x.png 2x`} alt="Naxos" />
+                                            <img src="/images/colmena/logo-white.png" srcSet={`/images/colmena/logo-white.png 2x`} alt="Colmena" />
                                         </a>
                                     </Link>
 
                                     <Link href="/">
                                         <a className="navbar-brand navbar-brand2">
-                                            <img src="/images/logo.png" srcSet={`/images/logo@2x.png 2x`} alt="Naxos" />
+                                            <img src="/images/colmena/logo.png" srcSet={`/images/colmena/logo.png 2x`} alt="Colmena" />
                                         </a>
                                     </Link>
                                 
@@ -78,58 +78,58 @@ const Header = (props) => {
                                     </li>
                                     
                                     <li className="nav-item">
+                                        <Link href="/#services">
+                                            <a className="nav-link js-scroll-trigger">
+                                                <span>Colmena</span>
+                                            </a>
+                                        </Link>
+                                    </li>
+                                    
+                                    <li className="nav-item">
                                         <Link href="/#features">
                                             <a className="nav-link js-scroll-trigger">
-                                                <span>Features</span>
+                                                <span>App</span>
                                             </a>
                                         </Link>
                                     </li>
                                     
                                     <li className="nav-item">
-                                        <Link href="/#screenshots">
+                                        <Link href="/#factory">
                                             <a className="nav-link js-scroll-trigger">
-                                                <span>Screenshots</span>
+                                                <span>Factory</span>
                                             </a>
                                         </Link>
                                     </li>
                                     
                                     <li className="nav-item">
-                                        <Link href="/#support">
+                                        <Link href="/#jelly">
                                             <a className="nav-link js-scroll-trigger">
-                                                <span>Support</span>
+                                                <span>JellyCoin</span>
                                             </a>
                                         </Link>
                                     </li>
                                     
-                                    <li className="nav-item">
-                                        <Link href="/#pricing">
-                                            <a className="nav-link js-scroll-trigger">
-                                                <span>Pricing</span>
-                                            </a>
-                                        </Link>
-                                    </li>
-                                    
-                                    <li className="nav-item">
+                                    {/*<li className="nav-item">
                                         <Link href="/blog">
                                             <a className="nav-link js-scroll-trigger">
                                                 <span>Blog</span>
                                             </a>
                                         </Link>
-                                    </li>
+                                    </li>*/}
                                     
                                     <li className="nav-item">
-                                        <Link href="/contact">
+                                        <Link href="/#contact">
                                             <a className={props.nav !== undefined && props.nav==="contact" ? 'nav-link js-scroll-trigger active' : 'nav-link js-scroll-trigger'}>
-                                                <span>Contact</span>
+                                                <span>Contacto</span>
                                             </a>
                                         </Link>
                                     </li>
 
-                                    <li className="nav-item search-option">
+                                    {/*<li className="nav-item search-option">
                                         <a className="nav-link" href="#" onClick={handleSearch}>
                                             <i className="fas fa-search"></i>
                                         </a>
-                                    </li>
+                                    </li>*/}
 
                                 </ul>
                                 

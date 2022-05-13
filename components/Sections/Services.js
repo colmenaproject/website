@@ -13,7 +13,7 @@ const Services = (props) => {
 					<Col className="col-12 col-md-10 col-lg-6">
 						
 						<div className="section-title text-center">
-							<h3>How It Works?</h3>
+							<h3>Cómo funciona?</h3>
 							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo justo. Nullam dictum felis eu pede mollis pretium.</p>
 						</div>
 						
@@ -21,6 +21,8 @@ const Services = (props) => {
 				</Row>
 			
 				<Row>
+
+					<img src="/images/colmena/infographic.jpg" />
 					
 					{/* <!-- Service 1 --> */}
 					<Col className="col-12 col-lg-4 res-margin wow fadeInUp" data-wow-offset="10" data-wow-duration="1s" data-wow-delay="0">

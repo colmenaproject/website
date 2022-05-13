@@ -25,7 +25,7 @@ export default class Footer extends Component {
 							<Col className="col-12 col-md-6 col-lg-3 res-margin">
 								<div className="widget">
 									<p className="footer-logo">
-										<img src="/images/logo-white.png" alt="Naxos" data-rjs="2" />
+										<img src="/images/colmena/logo-white.png" alt="Colmena" data-rjs="2" />
 									</p>
 									<p>
 										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.
@@ -42,11 +42,11 @@ export default class Footer extends Component {
 								</div>
 							</Col>
 							
-							{/* <!-- Useful links --> */}
+							{/* <!-- Useful links --> 
 							<Col className="col-12 col-md-6 col-lg-2 offset-lg-1 res-margin">
 								<div className="widget">
 									
-									<h6>Useful Links</h6>
+									<h6>Enlaces útiles</h6>
 									
 									<ul className="footer-menu">
 										<li><a href="#">Support</a></li>
@@ -58,19 +58,19 @@ export default class Footer extends Component {
 									
 								</div>
 							</Col>
-							
+							*/}
 							{/* <!-- Product help --> */}
-							<Col className="col-12 col-md-6 col-lg-3 res-margin">
+							<Col className="col-12 col-md-3 col-lg-6 res-margin">
 								<div className="widget">
 									
-									<h6>Product Help</h6>
+									{/*<h6>Ayuda sobre Colmena</h6>*/}	
 									
 									<ul className="footer-menu">
 										<li><a href="#">FAQ</a></li>
-										<li><a href="#">Reviews</a></li>
-										<li><a href="#">Features</a></li>
-										<li><a href="#">Feedback</a></li>
-										<li><a href="#">API</a></li>
+										<li><a href="#">Colmena</a></li>
+										<li><a href="#">App</a></li>
+										<li><a href="#">Factory</a></li>
+										<li><a href="#">JellyCoin</a></li>
 									</ul>
 									
 								</div>
@@ -80,7 +80,7 @@ export default class Footer extends Component {
 							<Col className="col-12 col-md-6 col-lg-3">
 								<div className="widget">
 									
-									<h6>Download</h6>
+										{/*<h6>Download</h6>*/}
 									
 									<div className="button-store">
 										<a href="#" className="custom-btn d-inline-flex align-items-center m-2 m-sm-0 mb-sm-3"><i className="fab fa-google-play"></i><p>Available on<span>Google Play</span></p></a>
@@ -104,7 +104,7 @@ export default class Footer extends Component {
 								
 								{/* <!-- Text --> */}
 								<p className="copyright text-center">
-									Copyright © 2022 <a href="#" target="_blank">Naxos</a>. All Rights Reserved.
+									© 2022 - <a href="#" target="_blank">Colmena</a>
 								</p>
 								
 							</Col>

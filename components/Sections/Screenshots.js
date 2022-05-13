@@ -22,7 +22,7 @@ const Screenshots = (props) => {
 					<Col className="col-12 col-md-10 col-lg-6">
 						
 						<div className="section-title text-center">
-							<h3>App Screenshots</h3>
+							<h3>Funcionalidades</h3>
 							<p>Morbi velit leo, sodales in purus eu, pretium accumsan nunc. Praesent eu diam ut ante consequat euismod.</p>
 						</div>
 						

@@ -13,7 +13,7 @@ const Team = () => {
 					<Col className="col-12 col-md-10 col-lg-6">
 						
 						<div className="section-title text-center">
-							<h3>Our Team</h3>
+							<h3>Equipo</h3>
 							<p>Aliquam at tortor sit amet eros bibendum faucibus quis nec arcu. Quisque lobortis lectus vitae lectus aliquet leo.</p>
 						</div>
 						
