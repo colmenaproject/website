@@ -25,24 +25,22 @@ const SingleImage = () => {
 						<div className="banner-text">
 
 							<h1 className="wow fadeInUp" data-wow-offset="10" data-wow-duration="1s" data-wow-delay="0s">
-								Showcase your<br />App in one place
+							Transformá tus Residuos<br />en Oportunidades
 							</h1>
 							
 							<p className="wow fadeInUp" data-wow-offset="10" data-wow-duration="1s" data-wow-delay="0.3s">
-								Duis facilisis sem sed metus malesuada rhoncus. 
-								Nulla tincidunt tincidunt lectus at lacinia. 
-								Pellentesque ullamcorper arcu id rutrum volutpat. 
-								Donec suscipit auctor enim vel dignissim.
+							Promovemos una economía colaborativa, circular y sustentable. Reducí tu huella de carbono y obtené beneficios 
+							con la criptomoneda <strong><em>JellyCoin</em></strong>.
 							</p>
 
 							<div className="button-store wow fadeInUp" data-wow-offset="10" data-wow-duration="1s" data-wow-delay="0.6s">
 								
 								<a href="#" className="custom-btn d-inline-flex align-items-center m-2 m-sm-0 me-sm-3">
-									<i className="fab fa-google-play"></i><p>Available on<span>Google Play</span></p>
+									<i className="fab fa-google-play"></i><p>Disponible en<span>Google Play</span></p>
 								</a>
 								
 								<a href="#" className="custom-btn d-inline-flex align-items-center m-2 m-sm-0">
-									<i className="fab fa-apple"></i><p>Download on<span>App Store</span></p>
+									<i className="fab fa-apple"></i><p>Descargar en<span>App Store</span></p>
 								</a>
 							
 							</div>

@@ -13,8 +13,8 @@ const Features = (props) => {
 					<Col className="col-12 col-md-10 col-lg-6">
 						
 						<div className="section-title text-center">
-							<h3>Awesome Features</h3>
-							<p>Sed laoreet diam sagittis tempus convallis. Interdum et malesuada fames ac ante ipsum primis in faucibus. </p>
+							<h3>Colmena APP</h3>
+							<p> </p>
 						</div>
 						
 					</Col>
@@ -33,13 +33,13 @@ const Features = (props) => {
 									
 									{/* <!-- Box icon --> */}
 									<div className="box-icon">
-										<div className="icon icon-basic-gear"></div>
+										<div className="icon icon-basic-share"></div>
 									</div>
 									
 									{/* <!-- Box Text --> */}
 									<div className="box-text align-self-center align-self-md-start">
-										<h4>Custom Shortcuts</h4>
-										<p>Semper a augue suscipit, luctus neque purus ipsum neque dolor primis libero tempus velna culpa expedita.</p>
+										<h4>Descubrí otros usuarios</h4>
+										<p>Conocé a los usuarios de Colmena cercanos a tu domicilio para coordinar el transporte de los materiales recuperados.</p>
 									</div>
 									
 								</div>
@@ -51,31 +51,13 @@ const Features = (props) => {
 									
 									{/* <!-- Box icon --> */}
 									<div className="box-icon">
-										<div className="icon icon-basic-lock"></div>
+										<div className="icon icon-basic-trashcan-full"></div>
 									</div>
 									
 									{/* <!-- Box Text --> */}
 									<div className="box-text align-self-center align-self-md-start">
-										<h4>Secure Integration</h4>
-										<p>Semper a augue suscipit, luctus neque purus ipsum neque dolor primis libero tempus velna culpa expedita.</p>
-									</div>
-									
-								</div>
-							</li>
-							
-							{/* <!-- Feature box --> */}
-							<li> 
-								<div className={"feature-box d-flex" + (props.boxLeft ? " box-left" : "")}>
-									
-									{/* <!-- Box icon --> */}
-									<div className="box-icon">
-										<div className="icon icon-basic-message-txt"></div>
-									</div>
-									
-									{/* <!-- Box Text --> */}
-									<div className="box-text align-self-center align-self-md-start">
-										<h4>Free Live Chat</h4>
-										<p>Semper a augue suscipit, luctus neque purus ipsum neque dolor primis libero tempus velna culpa expedita.</p>
+										<h4>Registrá tus residuos</h4>
+										<p>Llevá un control detallado de los residuos recuperados y coordiná su entrega con un Centro de Reciclado.</p>
 									</div>
 									
 								</div>
@@ -102,13 +84,13 @@ const Features = (props) => {
 									
 									{/* <!-- Box icon --> */}
 									<div className="box-icon">
-										<div className="icon icon-basic-share"></div>
+										<div className="icon icon-basic-star"></div>
 									</div>
 									
 									{/* <!-- Box Text --> */}
 									<div className="box-text align-self-center align-self-md-start">
-										<h4>Social Share</h4>
-										<p>Semper a augue suscipit, luctus neque purus ipsum neque dolor primis libero tempus velna culpa expedita.</p>
+										<h4>Obtené Beneficios</h4>
+										<p>Tu trabajo de recuperación recibe una compensación económica mediante la criptomoneda JellyCoin.</p>
 									</div>
 									
 								</div>
@@ -120,31 +102,13 @@ const Features = (props) => {
 									
 									{/* <!-- Box icon --> */}
 									<div className="box-icon">
-										<div className="icon icon-basic-sheet-multiple"></div>
+										<div className="icon icon-basic-cloud"></div>
 									</div>
 									
 									{/* <!-- Box Text --> */}
 									<div className="box-text align-self-center align-self-md-start">
-										<h4>Merge Files</h4>
-										<p>Semper a augue suscipit, luctus neque purus ipsum neque dolor primis libero tempus velna culpa expedita.</p>
-									</div>
-									
-								</div>
-							</li>
-							
-							{/* <!-- Feature box --> */}
-							<li> 
-								<div className="feature-box d-flex"> 
-									
-									{/* <!-- Box icon --> */}
-									<div className="box-icon">
-										<div className="icon icon-basic-alarm"></div>
-									</div>
-									
-									{/* <!-- Box Text --> */}
-									<div className="box-text align-self-center align-self-md-start">
-										<h4>Action Reminder</h4>
-										<p>Semper a augue suscipit, luctus neque purus ipsum neque dolor primis libero tempus velna culpa expedita.</p>
+										<h4>Reducí tu huella de Carbono</h4>
+										<p>Con la App podés calcular y tener un seguimiento de la reducción en emisiones de Co2 equivalente a tu material recuperado.</p>
 									</div>
 									
 								</div>

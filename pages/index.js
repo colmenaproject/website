@@ -22,16 +22,16 @@ import ToTop from "../components/Sections/ToTop";
 const Index = () => (
 
     <Layout 
-        pageTitle="Colmena - React Next JS App Landing Page Template" 
-        colorSchema="/assets/colors/blue.css" 
+        pageTitle="Colmena Project" 
+        colorSchema="/assets/colors/green-colmena.css" 
     >
         <Loader />
         <Header nav="home" />
         <SingleImage />
         <Clients className="section-box bg-grey" />
+        <Services serviceClassName="service-single" />
         <Features />
         <ParallaxVideo />
-        <Services serviceClassName="service-single" />
         <Overview />
         <Testimonials />
         <Counters />

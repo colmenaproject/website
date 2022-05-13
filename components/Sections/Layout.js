@@ -19,7 +19,7 @@ const addStyleSheet = (path) => {
 const Layout = (props) => {
 
 	// Google web font
-	addStyleSheet("https://fonts.googleapis.com/css?family=Roboto:200,300,400,500,700");
+	addStyleSheet("https://fonts.googleapis.com/css?family=Mulish:200,300,400,500,700");
 
 	// Color schema
 	addStyleSheet(props.colorSchema);

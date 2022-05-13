@@ -47,11 +47,11 @@ footer .footer-widgets a:hover,
 .sidebar ul.links li a:focus,
 .author-social a:hover,
 .icon.colored i {
-	color:#2aa275;
+	color:#21BDA3;
 }
 
 .fixed-menu .nav-menu li a:hover, .button-store .custom-btn:hover svg {
-	color:#2aa275 !important;
+	color:#21BDA3 !important;
 }
 
 .custom-btn,
@@ -60,7 +60,7 @@ footer .footer-widgets a:hover,
 .testimonial-carousel .carousel-images .slick-center img,
 .swiper-pagination .swiper-pagination-bullet,
 .progress-heading .progress-value > span:before {
-	border-color:#2aa275 !important;
+	border-color:#21BDA3 !important;
 }
 
 input:focus, 
@@ -108,7 +108,7 @@ textarea.notice {
 .progress-heading .progress-value > span,
 .tags .tag:hover,
 blockquote {
-	background-color:#2aa275 !important;
+	background-color:#21BDA3 !important;
 }
 
 .btn:hover,
@@ -117,7 +117,7 @@ blockquote {
 .pagination li a:hover,
 .pagination li a.active,
 .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
-	background-color:#1f8760 !important;
+	background-color:#21BDA3 !important;
 }
 
 #zoom-in, 
