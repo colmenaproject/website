@@ -37,7 +37,7 @@ const Index = () => (
          {/*<Testimonials />*/}
          {/*<Counters />*/}
         <Team />
-        {/*<Support />*/}
+        <Support />
         {/*<Subscribe />*/}
         {/*<Blog />*/}
         {/*<Pricing className="bg-grey" />*/}

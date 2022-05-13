@@ -109,13 +109,13 @@ const Header = (props) => {
                                         </Link>
                                     </li>
                                     
-                                    {/*<li className="nav-item">
-                                        <Link href="/blog">
+                                    {<li className="nav-item">
+                                        <Link href="/#support">
                                             <a className="nav-link js-scroll-trigger">
-                                                <span>Blog</span>
+                                                <span>FAQ</span>
                                             </a>
                                         </Link>
-                                    </li>*/}
+                                    </li>}
                                     
                                     <li className="nav-item">
                                         <Link href="/#contact">
