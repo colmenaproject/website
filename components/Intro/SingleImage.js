@@ -10,7 +10,7 @@ const SingleImage = () => {
                 duration={100000}
                 transition={0.75}
                 className="image-bg"
-                images={['/images/banner/single-image.jpg']}
+                images={['/images/colmena/banner.jpg']}
             />
 
 			{/* <!-- Container --> */}

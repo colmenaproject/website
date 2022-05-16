@@ -22,7 +22,7 @@ const How = (props) => {
 			
 				<Row>
 
-					<img src="/images/colmena/infographic.jpg" />
+					<img src="/images/colmena/infografia.jpg" />
 					
 				</Row>
 				

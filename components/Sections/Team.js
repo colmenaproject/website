@@ -39,6 +39,12 @@ const Team = () => {
 							<div className="team-details">
 								<h5 className="title"><a href="/worker">Jeannette Crow</a></h5>
 								<span className="position">CEO Founder</span>
+								<div className="team-social-outer">
+										<a href="#"><i className="fab fa-twitter"></i></a>
+										<a href="#"><i className="fab fa-facebook-f"></i></a>
+										<a href="#"><i className="fab fa-linkedin-in"></i></a>
+										<a href="#"><i className="fab fa-dribbble"></i></a>
+								</div>
 							</div>
 						</div>
 					</Col>

@@ -30,13 +30,13 @@ const Header = (props) => {
                                     
                                     <Link href="/">
                                         <a className="navbar-brand navbar-brand1">
-                                            <img src="/images/colmena/logo-white.png" srcSet={`/images/colmena/logo-white.png 2x`} alt="Colmena" />
+                                            <img src="/images/colmena/logo-white.png" srcSet={`/images/colmena/logo-white2x.png 2x`} alt="Colmena" />
                                         </a>
                                     </Link>
 
                                     <Link href="/">
                                         <a className="navbar-brand navbar-brand2">
-                                            <img src="/images/colmena/logo.png" srcSet={`/images/colmena/logo.png 2x`} alt="Colmena" />
+                                            <img src="/images/colmena/logo.png" srcSet={`/images/colmena/logo2x.png 2x`} alt="Colmena" />
                                         </a>
                                     </Link>
                                 
