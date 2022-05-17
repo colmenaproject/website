@@ -1846,6 +1846,10 @@ section.parallax .counter p {
 	transition:all 0.3s;
 }
 
+.team-member .team-social-outer {
+	margin-bottom: 40px;
+}
+
 .team-member .team-social-outer > a {
 	margin-top: 10px;
 	color: #21BDA3;

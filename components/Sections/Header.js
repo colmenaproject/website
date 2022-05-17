@@ -58,7 +58,7 @@ const Header = (props) => {
                                     
                                     {/* <!-- Logo --> */}
                                     <a href="#" className="logo">
-                                        <img src="images/logo.png" srcSet={`/images/logo@2x.png 2x`} alt="Naxos" />
+                                        <img src="images/colmena/logo.png" srcSet={`/images/colmena/logo2x.png 2x`} alt="Naxos" />
                                     </a>
                                     
                                     {/* <!-- Close button --> */}
@@ -69,13 +69,6 @@ const Header = (props) => {
                                 {/* <!-- Items --> */}
                                 <ul className="nav-menu d-lg-flex flex-wrap list-unstyled justify-content-center">
                                     
-                                    <li className="nav-item">
-                                        <Link href="/#top-page">
-                                            <a className={props.nav !== undefined && props.nav==="home" ? 'nav-link js-scroll-trigger active' : 'nav-link js-scroll-trigger'}>
-                                                <span>Home</span>
-                                            </a>
-                                        </Link>
-                                    </li>
                                     
                                     <li className="nav-item">
                                         <Link href="/#services">

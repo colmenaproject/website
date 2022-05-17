@@ -26,7 +26,7 @@ const Team = () => {
 					<Col className="col-12 col-md-6 col-lg-3">
 						<div className="team-member res-margin">
 							<div className="team-image">
-								<img src="/images/team/member-1.jpg" alt="" />
+								{/*<img src="/images/team/member-1.jpg" alt="" />*/}
 								<div className="team-social">
 									<div className="team-social-inner">
 										<a href="#"><i className="fab fa-twitter"></i></a>
@@ -53,7 +53,7 @@ const Team = () => {
 					<Col className="col-12 col-md-6 col-lg-3">
 						<div className="team-member res-margin">
 							<div className="team-image">
-								<img src="/images/team/member-2.jpg" alt="" />
+								{/*<img src="/images/team/member-2.jpg" alt="" />*/}
 								<div className="team-social">
 									<div className="team-social-inner">
 										<a href="#"><i className="fab fa-twitter"></i></a>
@@ -66,6 +66,12 @@ const Team = () => {
 							<div className="team-details">
 								<h5 className="title"><a href="/worker">Michael Broad</a></h5>
 								<span className="position">Web Designer</span>
+								<div className="team-social-outer">
+										<a href="#"><i className="fab fa-twitter"></i></a>
+										<a href="#"><i className="fab fa-facebook-f"></i></a>
+										<a href="#"><i className="fab fa-linkedin-in"></i></a>
+										<a href="#"><i className="fab fa-dribbble"></i></a>
+								</div>
 							</div>
 						</div>
 					</Col>	
@@ -74,7 +80,7 @@ const Team = () => {
 					<Col className="col-12 col-md-6 col-lg-3">
 						<div className="team-member res-margin">
 							<div className="team-image">
-								<img src="/images/team/member-3.jpg" alt="" />
+								{/*<img src="/images/team/member-3.jpg" alt="" />*/}
 								<div className="team-social">
 									<div className="team-social-inner">
 										<a href="#"><i className="fab fa-twitter"></i></a>
@@ -87,6 +93,12 @@ const Team = () => {
 							<div className="team-details">
 								<h5 className="title"><a href="/worker">Isabella Dowson</a></h5>
 								<span className="position">Creative Director</span>
+								<div className="team-social-outer">
+										<a href="#"><i className="fab fa-twitter"></i></a>
+										<a href="#"><i className="fab fa-facebook-f"></i></a>
+										<a href="#"><i className="fab fa-linkedin-in"></i></a>
+										<a href="#"><i className="fab fa-dribbble"></i></a>
+								</div>
 							</div>
 						</div>
 					</Col>
@@ -95,7 +107,7 @@ const Team = () => {
 					<Col className="col-12 col-md-6 col-lg-3">
 						<div className="team-member">
 							<div className="team-image">
-								<img src="/images/team/member-4.jpg" alt="" />
+								{/*<img src="/images/team/member-4.jpg" alt="" />*/}
 								<div className="team-social">
 									<div className="team-social-inner">
 										<a href="#"><i className="fab fa-twitter"></i></a>
@@ -108,6 +120,120 @@ const Team = () => {
 							<div className="team-details">
 								<h5 className="title"><a href="/worker">Martin Lawrence</a></h5>
 								<span className="position">App Developer</span>
+								<div className="team-social-outer">
+										<a href="#"><i className="fab fa-twitter"></i></a>
+										<a href="#"><i className="fab fa-facebook-f"></i></a>
+										<a href="#"><i className="fab fa-linkedin-in"></i></a>
+										<a href="#"><i className="fab fa-dribbble"></i></a>
+								</div>
+							</div>
+						</div>
+					</Col>
+
+					{/* <!-- Member 5 --> */}
+					<Col className="col-12 col-md-6 col-lg-3">
+						<div className="team-member">
+							<div className="team-image">
+								{/*<img src="/images/team/member-4.jpg" alt="" />*/}
+								<div className="team-social">
+									<div className="team-social-inner">
+										<a href="#"><i className="fab fa-twitter"></i></a>
+										<a href="#"><i className="fab fa-facebook-f"></i></a>
+										<a href="#"><i className="fab fa-linkedin-in"></i></a>
+										<a href="#"><i className="fab fa-dribbble"></i></a>
+									</div>
+								</div>
+							</div>
+							<div className="team-details">
+								<h5 className="title"><a href="/worker">Martin Lawrence</a></h5>
+								<span className="position">App Developer</span>
+								<div className="team-social-outer">
+										<a href="#"><i className="fab fa-twitter"></i></a>
+										<a href="#"><i className="fab fa-facebook-f"></i></a>
+										<a href="#"><i className="fab fa-linkedin-in"></i></a>
+										<a href="#"><i className="fab fa-dribbble"></i></a>
+								</div>
+							</div>
+						</div>
+					</Col>
+
+					{/* <!-- Member 6 --> */}
+					<Col className="col-12 col-md-6 col-lg-3">
+						<div className="team-member">
+							<div className="team-image">
+								{/*<img src="/images/team/member-4.jpg" alt="" />*/}
+								<div className="team-social">
+									<div className="team-social-inner">
+										<a href="#"><i className="fab fa-twitter"></i></a>
+										<a href="#"><i className="fab fa-facebook-f"></i></a>
+										<a href="#"><i className="fab fa-linkedin-in"></i></a>
+										<a href="#"><i className="fab fa-dribbble"></i></a>
+									</div>
+								</div>
+							</div>
+							<div className="team-details">
+								<h5 className="title"><a href="/worker">Martin Lawrence</a></h5>
+								<span className="position">App Developer</span>
+								<div className="team-social-outer">
+										<a href="#"><i className="fab fa-twitter"></i></a>
+										<a href="#"><i className="fab fa-facebook-f"></i></a>
+										<a href="#"><i className="fab fa-linkedin-in"></i></a>
+										<a href="#"><i className="fab fa-dribbble"></i></a>
+								</div>
+							</div>
+						</div>
+					</Col>
+
+					{/* <!-- Member 7 --> */}
+					<Col className="col-12 col-md-6 col-lg-3">
+						<div className="team-member">
+							<div className="team-image">
+								{/*<img src="/images/team/member-4.jpg" alt="" />*/}
+								<div className="team-social">
+									<div className="team-social-inner">
+										<a href="#"><i className="fab fa-twitter"></i></a>
+										<a href="#"><i className="fab fa-facebook-f"></i></a>
+										<a href="#"><i className="fab fa-linkedin-in"></i></a>
+										<a href="#"><i className="fab fa-dribbble"></i></a>
+									</div>
+								</div>
+							</div>
+							<div className="team-details">
+								<h5 className="title"><a href="/worker">Martin Lawrence</a></h5>
+								<span className="position">App Developer</span>
+								<div className="team-social-outer">
+										<a href="#"><i className="fab fa-twitter"></i></a>
+										<a href="#"><i className="fab fa-facebook-f"></i></a>
+										<a href="#"><i className="fab fa-linkedin-in"></i></a>
+										<a href="#"><i className="fab fa-dribbble"></i></a>
+								</div>
+							</div>
+						</div>
+					</Col>
+
+					{/* <!-- Member 8 --> */}
+					<Col className="col-12 col-md-6 col-lg-3">
+						<div className="team-member">
+							<div className="team-image">
+								{/*<img src="/images/team/member-4.jpg" alt="" />*/}
+								<div className="team-social">
+									<div className="team-social-inner">
+										<a href="#"><i className="fab fa-twitter"></i></a>
+										<a href="#"><i className="fab fa-facebook-f"></i></a>
+										<a href="#"><i className="fab fa-linkedin-in"></i></a>
+										<a href="#"><i className="fab fa-dribbble"></i></a>
+									</div>
+								</div>
+							</div>
+							<div className="team-details">
+								<h5 className="title"><a href="/worker">Martin Lawrence</a></h5>
+								<span className="position">App Developer</span>
+								<div className="team-social-outer">
+										<a href="#"><i className="fab fa-twitter"></i></a>
+										<a href="#"><i className="fab fa-facebook-f"></i></a>
+										<a href="#"><i className="fab fa-linkedin-in"></i></a>
+										<a href="#"><i className="fab fa-dribbble"></i></a>
+								</div>
 							</div>
 						</div>
 					</Col>

@@ -6,8 +6,8 @@ import ToTop from "../components/Sections/ToTop";
 const Custom404 = () => (
 
     <Layout 
-        pageTitle="Naxos - Ooops..." 
-        colorSchema="/assets/colors/blue.css"
+        pageTitle="Colmena - Ooops..." 
+        colorSchema="/assets/colors/green-colmena.css"
     >
         <Loader />
         <ErrorPage />

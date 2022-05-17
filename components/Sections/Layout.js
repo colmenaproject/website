@@ -38,7 +38,7 @@ const Layout = (props) => {
 				<title>{props.pageTitle}</title>
 
 				/* Favicon */
-				<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+				<link rel="icon" href="/images/colmena/favicon.png" type="image/x-icon" />
 
 			</Head>
 

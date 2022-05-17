@@ -18,16 +18,16 @@ const ErrorPage = (props) => {
 						
 						<div className="empty-30"></div>
 						
-						<h2>Something has gone wrong!</h2>
+						<h2>Uppps!</h2>
 						
 						{/* Primary text */}
 						<p className="info">
-							The page you are trying to reach doesn't seem to exist.
+							La página que buscas no existe.
 						</p>
 						
 						<p>
 							<a href="/" className="btn btn-default btn-rounded">
-                                <i className="fas fa-chevron-left"></i> Take me back
+                                <i className="fas fa-chevron-left"></i> Volver a Colmena
                             </a>
 						</p>
 

@@ -72,12 +72,14 @@ const Overview = (props) => {
 					
 					{/* <!-- Image --> */}
 					<Col className="col-12 col-lg-5 order-lg-first text-sm-center">
-						<img src="/images/overview/track-time.png" alt="" />
+						<img src="/images/colmena/tablet.png" alt="" />
+						<img src="/images/colmena/tablet2.png" alt="" />
 					</Col>
 					
 				</Row>
 				
 				<div id="jelly" className="empty-100"></div>
+				<div className="empty-100"></div>
 				
 				{/* <!-- Daily schedule --> */}
 				<Row>
