@@ -17,39 +17,35 @@ const Factory = (props) => {
 						{/* <!-- Section title --> */}
 						<div className="section-title text-center text-lg-start">
 						
-							{<h3>Factory</h3>}
-							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. </p>
+							{<h3>Módulo Factory</h3>}
+							<p>Colmena provee a los EcoPuntos y Centros de Reciclaje un sistema para gestionar los materiales recibidos. El módulo cuenta con:</p>
 						</div>
 
 						{/* <!-- List --> */}
 						<ul className="overview-list">
 
 							<li>
-								<p><i className="fa-li fas fa-check"></i> Ut fringilla est at nunc suscipit dictum. Nulla facilisi. Phasellus dignissim nibh eget imperdiet venenatis.</p>
+								<p><i className="fa-li fas fa-check"></i> Un sistema de pesaje electrónico, automatizado y vinculado al sistema de sofware.</p>
 							</li>
 
 							<li>
-								<p><i className="fa-li fas fa-check"></i> Nullam egestas tincidunt lectus, sagittis eros vestibulum in. Vestibulum finibus iaculis sagittis. Suspendisse viverra luctus.</p>
+								<p><i className="fa-li fas fa-check"></i> Un sistema de gestión de entrada de materiales con una interfaz web de muy sencillo uso.</p>
 							</li>
 
 							<li>
-								<p><i className="fa-li fas fa-check"></i> Suspendisse at volutpat magna, vitae mattis metus. Integer posuere eu erat at pharetra. Aliquam ut pharetra diam.</p>
+								<p><i className="fa-li fas fa-check"></i> Un sistema de pagos en <em>JellyCoin</em> a los usuarios de Colmena APP por los materiales recibidos y por el transporte realizado.</p>
 							</li>
 
 							<li>
-								<p><i className="fa-li fas fa-check"></i> Donec luctus, sem vel molestie efficitur, metus libero mollis neque, sed scelerisque arcu nisl eu lectus.</p>
-							</li>
-
-							<li>
-								<p><i className="fa-li fas fa-check"></i> Fusce neque magna, fringilla ac vulputate at, venenatis a eros. Donec accumsan commodo tortor sed fringilla.</p>
+								<p><i className="fa-li fas fa-check"></i> Estádisticas y métricas respecto al material recibido, configurables en rangos de fecha.</p>
 							</li>
 
 						</ul>
 
-						{/* <!-- Button --> */}
+						{/* <!-- Button --> 
 						<p className="text-center text-lg-start">
 							<a href="#" className="btn">Ver más</a>
-						</p>
+						</p>*/}
 					
 					</Col>
 					

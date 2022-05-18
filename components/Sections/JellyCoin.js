@@ -19,7 +19,7 @@ const JellyCoin = (props) => {
 						<div className="section-title text-center text-lg-start">
 							{/*<h3>Colmena Factory</h3>*/}
 							<img className="img-jelly" src="/images/colmena/jellycoin.png" />
-							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. </p>
+							<p>Una recompensa económica a la responsabilidad ambiental. Con todas las ventajas de la tecnología Blockchain pero con un menor impacto ambiental. </p>
 						</div>
 
 						{/* <!-- Items --> */}
@@ -29,12 +29,12 @@ const JellyCoin = (props) => {
 							<div className="overview-box d-flex flex-wrap">
 
 								{/* <!-- Icon --> */}
-								<div className="icon icon-basic-compass"></div>
+								<div className="icon icon-basic-world"></div>
 
 								{/* <!-- Content --> */}
 								<div className="content">
-									<h6 className="font-weight-bold mb-2 mt-0">Easy to Use</h6>
-									<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur</p>
+									<h6 className="font-weight-bold mb-2 mt-0">Criptomoneda basada en PoS</h6>
+									<p>Proof of Stake (PoS) es una tecnología respetuosa con el medio ambiente. No necesita de potentes máquinas para actividades de minería, lo que significa que su consumo energético es reducido.</p>
 								</div>
 
 							</div>
@@ -43,12 +43,12 @@ const JellyCoin = (props) => {
 							<div className="overview-box d-flex flex-wrap">
 
 								{/* <!-- Icon --> */}
-								<div className="icon icon-basic-helm"></div>
+								<div className="icon icon-basic-heart"></div>
 
 								{/* <!-- Content --> */}
 								<div className="content">
-									<h6 className="font-weight-bold mb-2 mt-0">Monitor &amp; Manage</h6>
-									<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur</p>
+									<h6 className="font-weight-bold mb-2 mt-0">Respaldo basado en el compromiso</h6>
+									<p>El valor de la criptomoneda está respaldado por el compromiso de los miembros de la comunidad de recuperadores y recicladores. Tu recompensa es directamente proporcional a tu trabajo.</p>
 								</div>
 
 							</div>
@@ -60,9 +60,10 @@ const JellyCoin = (props) => {
 								<div className="icon icon-basic-link"></div>
 
 								{/* <!-- Content --> */}
+								{/* <!-- Content --> */}
 								<div className="content">
-									<h6 className="font-weight-bold mb-2 mt-0">Stay Connected</h6>
-									<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur</p>
+									<h6 className="font-weight-bold mb-2 mt-0">Descentralización y democratización</h6>
+									<p>Todos pueden participar, siempre y cuando cumplan con su cuota de participación. Lo que evita la concentración de poder en pocas manos y permite que la entrega de recompensas sea más proporcional.</p>
 								</div>
 
 							</div>

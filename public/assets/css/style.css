@@ -1625,6 +1625,7 @@ section.parallax a:hover {
 
 .overview-list li p {
 	position: relative;
+	font-size: 18px;
 }
 
 .overview-list .fa-li {
