@@ -87,17 +87,17 @@ const Header = (props) => {
                                     </li>
                                     
                                     <li className="nav-item">
-                                        <Link href="/#factory">
-                                            <a className="nav-link js-scroll-trigger">
-                                                <span>Factory</span>
-                                            </a>
-                                        </Link>
-                                    </li>
-                                    
-                                    <li className="nav-item">
                                         <Link href="/#jelly">
                                             <a className="nav-link js-scroll-trigger">
                                                 <span>JellyCoin</span>
+                                            </a>
+                                        </Link>
+                                    </li>
+
+                                    <li className="nav-item">
+                                        <Link href="/#factory">
+                                            <a className="nav-link js-scroll-trigger">
+                                                <span>Factory</span>
                                             </a>
                                         </Link>
                                     </li>

@@ -6,7 +6,8 @@ import Clients from "../components/Sections//Clients";
 import Features from "../components/Sections/Features";
 import ParallaxVideo from "../components/Sections/ParallaxVideo";
 import How from "../components/Sections//How";
-import Overview from "../components/Sections/Overview";
+import Factory from "../components/Sections/Factory";
+import JellyCoin from "../components/Sections/JellyCoin";
 import Testimonials from "../components/Sections/Testimonials";
 import Counters from "../components/Sections/Counters";
 import Team from "../components/Sections/Team";
@@ -33,7 +34,8 @@ const Index = () => (
         <ParallaxVideo />
         <Features />
         <Screenshots className="bg-grey" />
-        <Overview />
+        <JellyCoin />
+        <Factory />
          {/*<Testimonials />*/}
          {/*<Counters />*/}
         <Team />

@@ -50,6 +50,10 @@ footer .footer-widgets a:hover,
 	color:#21BDA3;
 }
 
+.main-menu-area:not(.fixed-menu) .nav-link:focus {
+	color: white;
+}
+
 .fixed-menu .nav-menu li a:hover, .button-store .custom-btn:hover svg {
 	color:#21BDA3 !important;
 }
