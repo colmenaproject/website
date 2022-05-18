@@ -14,7 +14,9 @@ const How = (props) => {
 						
 						<div className="section-title text-center">
 							<h3>Cómo funciona?</h3>
-							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo justo. Nullam dictum felis eu pede mollis pretium.</p>
+							<p>Aplicando conceptos de economía colaborativa y mediante una APP  
+recompensamos a los generadores y recolectores de residuos, a la industria recicladora, y a las instituciones que buscan compensar su Pasivo Ambiental. Esto es posible gracias a la criptomoneda <em>JellyCoin</em>.<br />
+</p>
 						</div>
 						
 					</Col>

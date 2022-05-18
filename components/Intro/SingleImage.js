@@ -6,12 +6,12 @@ const SingleImage = () => {
     return (
         <section id="home" className="banner image-bg">
 			
-            <BackgroundSlider
+           { <BackgroundSlider
                 duration={100000}
                 transition={0.75}
                 className="image-bg"
-                images={['/images/colmena/banner.jpg']}
-            />
+                images={['/images/colmena/banner_color.jpg']}
+            />}
 
 			{/* <!-- Container --> */}
 			<Container>
@@ -62,7 +62,7 @@ const SingleImage = () => {
 				
 			</Container>
 			
-			{/* <!-- Wave effect --> */}
+			{/* <!-- Wave effect -->
 			<div className="wave-effect wave-anim">
 				
                 <div className="waves-shape shape-one">
@@ -77,7 +77,7 @@ const SingleImage = () => {
                     <div className="wave wave-three"></div>
                 </div>
 				
-            </div>
+            </div> */}
 			
 		</section>
     );
