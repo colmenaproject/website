@@ -12,7 +12,7 @@ import ToTop from "../components/Sections/ToTop";
 const Contact = () => (
 
     <Layout 
-        pageTitle="Naxos - Contact" 
+        pageTitle="Colmena - Contact" 
         colorSchema="/assets/colors/blue.css"
     >
         <Loader />

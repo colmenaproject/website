@@ -6,7 +6,7 @@ import Clients from "../components/Sections//Clients";
 import Features from "../components/Sections/Features";
 import ParallaxVideo from "../components/Sections/ParallaxVideo";
 import Services from "../components/Sections//Services";
-import Overview from "../components/Sections/Overview";
+import Factory from "../components/Sections/Factory";
 import Testimonials from "../components/Sections/Testimonials";
 import Counters from "../components/Sections/Counters";
 import Team from "../components/Sections/Team";
@@ -32,7 +32,7 @@ const Slide = () => (
         <Features />
         <Counters />
         <Testimonials />   
-        <Overview className="bg-grey" /> 
+        <Factory className="bg-grey" /> 
         <Clients className="section-box" />    
         <ParallaxVideo />        
         <Support />
