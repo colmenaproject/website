@@ -53,7 +53,7 @@ const SingleImage = () => {
 					<Col className="col-12 col-lg-6">
 				
 						<div className="banner-image wow fadeInUp" data-wow-offset="10" data-wow-duration="1s" data-wow-delay="0.3s">
-							<img className="bounce-effect" src="images/banner/single-welcome.png" alt="" />
+							<img className="bounce-effect" src="images/colmena/single-welcome.png" alt="" />
 						</div>
 
 					</Col>
