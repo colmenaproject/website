@@ -51,8 +51,7 @@ const Factory = (props) => {
 					
 					{/* <!-- Image --> */}
 					<Col className="col-12 col-lg-5 offset-lg-1 text-sm-center">
-						<img src="/images/colmena/tablet.png" alt="" />
-						<img src="/images/colmena/tablet2.png" alt="" />
+						<img src="/images/colmena/factory.png" alt="" />
 					</Col>
 					
 				</Row>

@@ -74,7 +74,7 @@ const JellyCoin = (props) => {
 					
 					{/* <!-- Image --> */}
 					<Col className="col-12 col-lg-5 order-lg-first text-sm-center">
-						<img src="/images/overview/daily-schedule.png" alt="" />
+						<img src="/images/colmena/jellyapp.png" alt="" />
 					</Col>
 					
 				</Row>

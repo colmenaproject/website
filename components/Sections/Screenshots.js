@@ -59,50 +59,86 @@ const Screenshots = (props) => {
                             >
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/screenshot-1.jpg">
-                                        <img src="/images/screenshots/screenshot-1.jpg" alt="" />
+                                    <a href="/images/colmena/slides/0.jpg">
+                                        <img src="/images/colmena/slides/0.jpg" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/screenshot-2.jpg">
-                                        <img src="/images/screenshots/screenshot-2.jpg" alt="" />
+                                    <a href="/images/colmena/slides/1.jpg">
+                                        <img src="/images/colmena/slides/1.jpg" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/screenshot-3.jpg">
-                                        <img src="/images/screenshots/screenshot-3.jpg" alt="" />
+                                    <a href="/images/colmena/slides/3.jpg">
+                                        <img src="/images/colmena/slides/3.jpg" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/screenshot-4.jpg">
-                                        <img src="/images/screenshots/screenshot-4.jpg" alt="" />
+                                    <a href="/images/colmena/slides/4.jpg">
+                                        <img src="/images/colmena/slides/4.jpg" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/screenshot-5.jpg">
-                                        <img src="/images/screenshots/screenshot-5.jpg" alt="" />
+                                    <a href="/images/colmena/slides/5.jpg">
+                                        <img src="/images/colmena/slides/5.jpg" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/screenshot-6.jpg">
-                                        <img src="/images/screenshots/screenshot-6.jpg" alt="" />
+                                    <a href="/images/colmena/slides/6.jpg">
+                                        <img src="/images/colmena/slides/6.jpg" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/screenshot-7.jpg">
-                                        <img src="/images/screenshots/screenshot-7.jpg" alt="" />
+                                    <a href="/images/colmena/slides/7.jpg">
+                                        <img src="/images/colmena/slides/7.jpg" alt="" />
                                     </a>
                                 </SwiperSlide>
 
                                 <SwiperSlide className="item">
-                                    <a href="/images/screenshots/screenshot-8.jpg">
-                                        <img src="/images/screenshots/screenshot-8.jpg" alt="" />
+                                    <a href="/images/colmena/slides/8.jpg">
+                                        <img src="/images/colmena/slides/8.jpg" alt="" />
+                                    </a>
+                                </SwiperSlide>
+
+                                <SwiperSlide className="item">
+                                    <a href="/images/colmena/slides/9.jpg">
+                                        <img src="/images/colmena/slides/9.jpg" alt="" />
+                                    </a>
+                                </SwiperSlide>
+
+                                <SwiperSlide className="item">
+                                    <a href="/images/colmena/slides/10.jpg">
+                                        <img src="/images/colmena/slides/10.jpg" alt="" />
+                                    </a>
+                                </SwiperSlide>
+
+                                <SwiperSlide className="item">
+                                    <a href="/images/colmena/slides/11.jpg">
+                                        <img src="/images/colmena/slides/11.jpg" alt="" />
+                                    </a>
+                                </SwiperSlide>
+
+                                <SwiperSlide className="item">
+                                    <a href="/images/colmena/slides/12.jpg">
+                                        <img src="/images/colmena/slides/12.jpg" alt="" />
+                                    </a>
+                                </SwiperSlide>
+
+                                <SwiperSlide className="item">
+                                    <a href="/images/colmena/slides/13.jpg">
+                                        <img src="/images/colmena/slides/13.jpg" alt="" />
+                                    </a>
+                                </SwiperSlide>
+
+                                <SwiperSlide className="item">
+                                    <a href="/images/colmena/slides/14.jpg">
+                                        <img src="/images/colmena/slides/14.jpg" alt="" />
                                     </a>
                                 </SwiperSlide>
 
