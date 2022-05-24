@@ -324,3 +324,15 @@
 }
 
 
+@media only screen and (min-width: 479px) {
+  .image-mobile {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+  .image-pc {
+		display: none;
+	}
+}
+

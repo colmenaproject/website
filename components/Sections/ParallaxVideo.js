@@ -19,7 +19,7 @@ const ParallaxVideo = () => {
         <>
             <ModalVideo channel='youtube' videoId="XC14Bb_h0t8" autoplay isOpen={isOpen} onClose={() => setOpen(false)} />
             
-            <section id="parallax-video" className="parallax" data-image="/images/parallax/video.jpg" ref={parallax}>
+            <section id="parallax-video" className="parallax" data-image="/images/colmena/banner.jpg" ref={parallax}>
         
                 {/* <!-- Overlay --> */}
                 <div className="overlay" />

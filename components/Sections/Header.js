@@ -58,7 +58,7 @@ const Header = (props) => {
                                     
                                     {/* <!-- Logo --> */}
                                     <a href="#" className="logo">
-                                        <img src="images/colmena/logo.png" srcSet={`/images/colmena/logo2x.png 2x`} alt="Naxos" />
+                                        <img src="images/colmena/logo.png" srcSet={`/images/colmena/logo2x.png 2x`} alt="Colmena" />
                                     </a>
                                     
                                     {/* <!-- Close button --> */}
@@ -111,7 +111,7 @@ const Header = (props) => {
                                     </li>}
                                     
                                     <li className="nav-item">
-                                        <Link href="/#contact">
+                                        <Link href="/#contact-footer">
                                             <a className={props.nav !== undefined && props.nav==="contact" ? 'nav-link js-scroll-trigger active' : 'nav-link js-scroll-trigger'}>
                                                 <span>Contacto</span>
                                             </a>

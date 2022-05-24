@@ -14,7 +14,7 @@ const Support = (props) => {
 						
 						<div className="section-title text-center">
 							<h3>Preguntas Frecuentes</h3>
-							<p>Cras fringilla, lectus sed ullamcorper fringilla. Massa ex accumsan odio, quis iaculis justo magna quis tortor.</p>
+							<p>En esta sección podrás encontrarás información sobre las cuestiones más consultadas por la comunidad:</p>
 						</div>
 						
 					</Col>
@@ -30,16 +30,17 @@ const Support = (props) => {
 							<Accordion.Item eventKey="0">
 
 								<Accordion.Header as="h5">
-									Can I see Naxos in action before purchasing it? 			        	
+								¿Cómo nace el proyecto Colmena? 			        	
 								</Accordion.Header>
 
 								<Accordion.Body>
 									<p>
-										Nam erat orci, dictum eu iaculis a, scelerisque commodo risus. 
-										Mauris eu egestas ipsum. In hac habitasse platea dictumst. 
-										Duis in consequat est. Sed feugiat, ante in finibus ullamcorper, 
-										felis sem porta orci, sed pretium nibh nunc a tellus.
-									</p>
+									El proyecto es ideado  por un grupo de jóvenes de 
+									Campo Viera quienes preocupados por el ambiente y 
+									la economía, dan nacimiento al proyecto Colmena y 
+									a la Fundación para el Desarrollo Colaborativo. 
+									Posteriormente se suman otros  profesionales de la 
+									Provincia y del País.</p>
 								</Accordion.Body>
 								
 							</Accordion.Item>
@@ -48,15 +49,19 @@ const Support = (props) => {
 							<Accordion.Item eventKey="1">
 
 								<Accordion.Header as="h5">
-									I've got older Mac. Is Naxos compatible with it? 			        	
+									¿Cómo puedo participar? 			        	
 								</Accordion.Header>
 
 								<Accordion.Body>
 									<p>
-										Nam erat orci, dictum eu iaculis a, scelerisque commodo risus. 
-										Mauris eu egestas ipsum. In hac habitasse platea dictumst. 
-										Duis in consequat est. Sed feugiat, ante in finibus ullamcorper, 
-										felis sem porta orci, sed pretium nibh nunc a tellus.
+									Todos los ciudadanos que quieran participar pueden 
+									hacerlo separando y clasificando sus botellas 
+									plásticas de gaseosa y agua mineral e informando 
+									en una aplicación de celular. También lo pueden hacer 
+									transportando los residuos recuperados hasta un lugar 
+									determinado de procesamiento, que en el caso de la 
+									prueba en Campo Viera al Centro de Experimentación y 
+									Reciclaje.
 									</p>
 								</Accordion.Body>
 								
@@ -66,15 +71,14 @@ const Support = (props) => {
 							<Accordion.Item eventKey="2">
 
 								<Accordion.Header as="h5">
-									What are the requirements for using Naxos?			        	
+									¿Dónde llevo las bolsas de residuos recuperados?        	
 								</Accordion.Header>
 
 								<Accordion.Body>
 									<p>
-										Nam erat orci, dictum eu iaculis a, scelerisque commodo risus. 
-										Mauris eu egestas ipsum. In hac habitasse platea dictumst. 
-										Duis in consequat est. Sed feugiat, ante in finibus ullamcorper, 
-										felis sem porta orci, sed pretium nibh nunc a tellus.
+									Una vez recuperado y registrado los residuos, 
+									pueden transportarlos hasta el Centro de Reciclaje o 
+									punto verde más próximo a su domicilio. 
 									</p>
 								</Accordion.Body>
 								
@@ -84,15 +88,15 @@ const Support = (props) => {
 							<Accordion.Item eventKey="3">
 
 								<Accordion.Header as="h5">
-									How does Naxos handle my privacy? 			        	
+								¿Cómo se retribuye mí participación?		        	
 								</Accordion.Header>
 
 								<Accordion.Body>
 									<p>
-										Nam erat orci, dictum eu iaculis a, scelerisque commodo risus. 
-										Mauris eu egestas ipsum. In hac habitasse platea dictumst. 
-										Duis in consequat est. Sed feugiat, ante in finibus ullamcorper, 
-										felis sem porta orci, sed pretium nibh nunc a tellus.
+									Tanto a los separadores como a los recolectores se les retribuirá con la moneda virtual denominada Jellycoin. Por cada bolsa que contenga 10 botellas se otorgará:
+3 Jellycoin (equivalentes a 300 grs) a quien recuperó el material.
+10 JellyCoin por Km a quién transporte ese residuo hasta el centro de reciclaje.
+
 									</p>
 								</Accordion.Body>
 								
@@ -102,15 +106,12 @@ const Support = (props) => {
 							<Accordion.Item eventKey="4">
 
 								<Accordion.Header as="h5">
-									What is Naxos privacy policy?  			        	
+								¿Cómo puedo usar la moneda virtual Jellycoin?		        	
 								</Accordion.Header>
 
 								<Accordion.Body>
 									<p>
-										Nam erat orci, dictum eu iaculis a, scelerisque commodo risus. 
-										Mauris eu egestas ipsum. In hac habitasse platea dictumst. 
-										Duis in consequat est. Sed feugiat, ante in finibus ullamcorper, 
-										felis sem porta orci, sed pretium nibh nunc a tellus.
+									En la prueba piloto la moneda virtual puede ser utilizada exclusivamente como pago de tasas municipales (Pago de servicios). En posteriores etapas, y en la medida que la moneda empiece a circular, podrá ser usada en comercios locales.
 									</p>
 								</Accordion.Body>
 								
@@ -125,7 +126,7 @@ const Support = (props) => {
 				
 				<Row>					
 					<Col className="col-12">
-						<p className="text-center mb-0">Alguna otra pregunta? <a href="#contact"><strong>Hacela aquí</strong></a></p>
+						<p className="text-center mb-0">Alguna otra pregunta? <a href="mailto:info@colmenaproject.io"><strong>Hacela aquí</strong></a></p>
 					</Col>
 				</Row>
 				

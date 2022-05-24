@@ -24,7 +24,8 @@ recompensamos a los generadores y recolectores de residuos, a la industria recic
 			
 				<Row>
 
-					<img src="/images/colmena/infografia.jpg" />
+					<img className="image-pc" src="/images/colmena/infografia.jpg" />
+					<img className="image-mobile" src="/images/colmena/infografia2x.jpg" />
 					
 				</Row>
 				

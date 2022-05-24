@@ -13,7 +13,7 @@ export default class Footer extends Component {
 
 	render() {
 		return (
-			<footer>
+			<footer id="contact-footer">
 				
 				{/* <!-- Widgets --> */}
 				<div className="footer-widgets">
@@ -28,7 +28,10 @@ export default class Footer extends Component {
 										<img src="/images/colmena/logo-white.png" alt="Colmena" data-rjs="2" />
 									</p>
 									<p>
-										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.
+									info@colmenaproject.io
+									</p>
+									<p>
+									+54 3755 227935
 									</p>
 									
 									{/* <!-- Social links --> */}
@@ -36,8 +39,6 @@ export default class Footer extends Component {
 										<a href="#" title="Twitter"><i className="fab fa-twitter fa-fw"></i></a>
 										<a href="#" title="Facebook"><i className="fab fa-facebook-f fa-fw"></i></a>
 										<a href="#" title="Instagram"><i className="fab fa-instagram"></i></a>
-										<a href="#" title="Dribbble"><i className="fab fa-dribbble"></i></a>
-										<a href="#" title="Pinterest"><i className="fab fa-pinterest fa-fw"></i></a>
 									</div>
 								</div>
 							</Col>
@@ -66,11 +67,11 @@ export default class Footer extends Component {
 									{/*<h6>Ayuda sobre Colmena</h6>*/}	
 									
 									<ul className="footer-menu">
-										<li><a href="#">FAQ</a></li>
-										<li><a href="#">Colmena</a></li>
-										<li><a href="#">App</a></li>
-										<li><a href="#">Factory</a></li>
-										<li><a href="#">JellyCoin</a></li>
+										<li><a href="#services">Colmena</a></li>
+										<li><a href="#features">App</a></li>
+										<li><a href="#factory">Factory</a></li>
+										<li><a href="#jelly">JellyCoin</a></li>
+										<li><a href="#support">FAQ</a></li>
 									</ul>
 									
 								</div>
@@ -83,8 +84,8 @@ export default class Footer extends Component {
 										{/*<h6>Download</h6>*/}
 									
 									<div className="button-store">
-										<a href="#" className="custom-btn d-inline-flex align-items-center m-2 m-sm-0 mb-sm-3"><i className="fab fa-google-play"></i><p>Available on<span>Google Play</span></p></a>
-										<a href="#" className="custom-btn d-inline-flex align-items-center m-2 m-sm-0"><i className="fab fa-apple"></i><p>Download on<span>App Store</span></p></a>
+										<a href="#" className="custom-btn d-inline-flex align-items-center m-2 m-sm-0 mb-sm-3"><i className="fab fa-google-play"></i><p>Disponible en<span>Google Play</span></p></a>
+										<a href="#" className="custom-btn d-inline-flex align-items-center m-2 m-sm-0"><i className="fab fa-apple"></i><p>Descargar en <span>App Store</span></p></a>
 									</div>
 									
 								</div>
