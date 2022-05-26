@@ -35,13 +35,13 @@ const SingleImage = () => {
 
 							<div className="button-store wow fadeInUp" data-wow-offset="10" data-wow-duration="1s" data-wow-delay="0.6s">
 								
-								<a href="#" className="custom-btn d-inline-flex align-items-center m-2 m-sm-0 me-sm-3">
+								<a href="https://play.google.com/store/apps/details?id=com.colmena.colmenapp&hl=es_NI&gl=US" className="custom-btn d-inline-flex align-items-center m-2 m-sm-0 me-sm-3">
 									<i className="fab fa-google-play"></i><p>Disponible en<span>Google Play</span></p>
 								</a>
 								
-								<a href="#" className="custom-btn d-inline-flex align-items-center m-2 m-sm-0">
+								{/*<a href="#" className="custom-btn d-inline-flex align-items-center m-2 m-sm-0">
 									<i className="fab fa-apple"></i><p>Descargar en<span>App Store</span></p>
-								</a>
+								</a>*/}
 							
 							</div>
 

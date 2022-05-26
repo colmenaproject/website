@@ -36,9 +36,10 @@ export default class Footer extends Component {
 									
 									{/* <!-- Social links --> */}
 									<div className="footer-social">
-										<a href="#" title="Twitter"><i className="fab fa-twitter fa-fw"></i></a>
-										<a href="#" title="Facebook"><i className="fab fa-facebook-f fa-fw"></i></a>
-										<a href="#" title="Instagram"><i className="fab fa-instagram"></i></a>
+										<a href="https://twitter.com/ColmenaProject" title="Twitter"><i className="fab fa-twitter fa-fw"></i></a>
+										<a href="https://www.facebook.com/ColmenaProject" title="Facebook"><i className="fab fa-facebook-f fa-fw"></i></a>
+										<a href="https://www.linkedin.com/company/colmenaproject/" title="Linkedin"><i className="fab fa-linkedin-in fa-fw"></i></a>
+										<a href="https://www.instagram.com/colmenaproject/" title="Instagram"><i className="fab fa-instagram"></i></a>
 									</div>
 								</div>
 							</Col>
@@ -84,8 +85,8 @@ export default class Footer extends Component {
 										{/*<h6>Download</h6>*/}
 									
 									<div className="button-store">
-										<a href="#" className="custom-btn d-inline-flex align-items-center m-2 m-sm-0 mb-sm-3"><i className="fab fa-google-play"></i><p>Disponible en<span>Google Play</span></p></a>
-										<a href="#" className="custom-btn d-inline-flex align-items-center m-2 m-sm-0"><i className="fab fa-apple"></i><p>Descargar en <span>App Store</span></p></a>
+										<a href="https://play.google.com/store/apps/details?id=com.colmena.colmenapp&hl=es_NI&gl=US" className="custom-btn d-inline-flex align-items-center m-2 m-sm-0 mb-sm-3"><i className="fab fa-google-play"></i><p>Disponible en<span>Google Play</span></p></a>
+										{/*<a href="#" className="custom-btn d-inline-flex align-items-center m-2 m-sm-0"><i className="fab fa-apple"></i><p>Descargar en <span>App Store</span></p></a>*/}
 									</div>
 									
 								</div>

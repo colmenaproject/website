@@ -14,7 +14,6 @@ const Team = () => {
 						
 						<div className="section-title text-center">
 							<h3>Equipo</h3>
-							<p>Aliquam at tortor sit amet eros bibendum faucibus quis nec arcu. Quisque lobortis lectus vitae lectus aliquet leo.</p>
 						</div>
 						
 					</Col>
@@ -37,13 +36,15 @@ const Team = () => {
 								</div>
 							</div>
 							<div className="team-details">
-								<h5 className="title"><a href="/worker">Jeannette Crow</a></h5>
-								<span className="position">CEO Founder</span>
+								<div className="img-wrapper">
+										<img src="/images/colmena/team/maria.jpg" />
+								</div>
+
+								<h5 className="title"><a href="/worker">María Pretto</a></h5>
+								<span className="position">Legal</span>
 								<div className="team-social-outer">
-										<a href="#"><i className="fab fa-twitter"></i></a>
-										<a href="#"><i className="fab fa-facebook-f"></i></a>
-										<a href="#"><i className="fab fa-linkedin-in"></i></a>
-										<a href="#"><i className="fab fa-dribbble"></i></a>
+										<a href="https://www.linkedin.com/in/maria-pretto-2454ab55/"><i className="fab fa-linkedin-in"></i></a>
+					
 								</div>
 							</div>
 						</div>
@@ -56,21 +57,19 @@ const Team = () => {
 								{/*<img src="/images/team/member-2.jpg" alt="" />*/}
 								<div className="team-social">
 									<div className="team-social-inner">
-										<a href="#"><i className="fab fa-twitter"></i></a>
-										<a href="#"><i className="fab fa-facebook-f"></i></a>
 										<a href="#"><i className="fab fa-linkedin-in"></i></a>
 										<a href="#"><i className="fab fa-dribbble"></i></a>
 									</div>
 								</div>
 							</div>
 							<div className="team-details">
-								<h5 className="title"><a href="/worker">Michael Broad</a></h5>
-								<span className="position">Web Designer</span>
+							  <div className="img-wrapper">
+										<img src="/images/colmena/team/ivan.jpg" />
+								</div>
+								<h5 className="title">Ivan Zubilewitz</h5>
+								<span className="position">Director</span>
 								<div className="team-social-outer">
-										<a href="#"><i className="fab fa-twitter"></i></a>
-										<a href="#"><i className="fab fa-facebook-f"></i></a>
-										<a href="#"><i className="fab fa-linkedin-in"></i></a>
-										<a href="#"><i className="fab fa-dribbble"></i></a>
+										<a href="https://www.linkedin.com/in/ivanandrez/"><i className="fab fa-linkedin-in"></i></a>
 								</div>
 							</div>
 						</div>
@@ -83,21 +82,19 @@ const Team = () => {
 								{/*<img src="/images/team/member-3.jpg" alt="" />*/}
 								<div className="team-social">
 									<div className="team-social-inner">
-										<a href="#"><i className="fab fa-twitter"></i></a>
-										<a href="#"><i className="fab fa-facebook-f"></i></a>
 										<a href="#"><i className="fab fa-linkedin-in"></i></a>
 										<a href="#"><i className="fab fa-dribbble"></i></a>
 									</div>
 								</div>
 							</div>
 							<div className="team-details">
-								<h5 className="title"><a href="/worker">Isabella Dowson</a></h5>
-								<span className="position">Creative Director</span>
+								<div className="img-wrapper">
+										<img src="/images/colmena/team/seba.jpg" />
+								</div>
+								<h5 className="title">Sebastián Valdecantos</h5>
+								<span className="position">Tokenomics</span>
 								<div className="team-social-outer">
-										<a href="#"><i className="fab fa-twitter"></i></a>
-										<a href="#"><i className="fab fa-facebook-f"></i></a>
-										<a href="#"><i className="fab fa-linkedin-in"></i></a>
-										<a href="#"><i className="fab fa-dribbble"></i></a>
+										<a href="https://www.linkedin.com/in/sebastianvaldecantos/"><i className="fab fa-linkedin-in"></i></a>
 								</div>
 							</div>
 						</div>
@@ -118,13 +115,14 @@ const Team = () => {
 								</div>
 							</div>
 							<div className="team-details">
-								<h5 className="title"><a href="/worker">Martin Lawrence</a></h5>
-								<span className="position">App Developer</span>
+								<div className="img-wrapper">
+										<img src="/images/colmena/team/santi.jpg" />
+								</div>
+								<h5 className="title">Santiago Semhan</h5>
+								<span className="position">CTO</span>
 								<div className="team-social-outer">
-										<a href="#"><i className="fab fa-twitter"></i></a>
-										<a href="#"><i className="fab fa-facebook-f"></i></a>
-										<a href="#"><i className="fab fa-linkedin-in"></i></a>
-										<a href="#"><i className="fab fa-dribbble"></i></a>
+										<a href="https://www.linkedin.com/in/santiagosemhan/"><i className="fab fa-linkedin-in"></i></a>
+									
 								</div>
 							</div>
 						</div>
@@ -145,13 +143,13 @@ const Team = () => {
 								</div>
 							</div>
 							<div className="team-details">
-								<h5 className="title"><a href="/worker">Martin Lawrence</a></h5>
-								<span className="position">App Developer</span>
+								<div className="img-wrapper">
+										<img src="/images/colmena/team/gaby.jpg" />
+								</div>
+								<h5 className="title">Gabriel Gortari</h5>
+								<span className="position">Diseño Industrial</span>
 								<div className="team-social-outer">
-										<a href="#"><i className="fab fa-twitter"></i></a>
-										<a href="#"><i className="fab fa-facebook-f"></i></a>
-										<a href="#"><i className="fab fa-linkedin-in"></i></a>
-										<a href="#"><i className="fab fa-dribbble"></i></a>
+										<a href="https://www.linkedin.com/in/gabriel-gortari-ab86a199/"><i className="fab fa-linkedin-in"></i></a>
 								</div>
 							</div>
 						</div>
@@ -164,21 +162,19 @@ const Team = () => {
 								{/*<img src="/images/team/member-4.jpg" alt="" />*/}
 								<div className="team-social">
 									<div className="team-social-inner">
-										<a href="#"><i className="fab fa-twitter"></i></a>
-										<a href="#"><i className="fab fa-facebook-f"></i></a>
 										<a href="#"><i className="fab fa-linkedin-in"></i></a>
 										<a href="#"><i className="fab fa-dribbble"></i></a>
 									</div>
 								</div>
 							</div>
 							<div className="team-details">
-								<h5 className="title"><a href="/worker">Martin Lawrence</a></h5>
-								<span className="position">App Developer</span>
+								<div className="img-wrapper">
+										<img src="/images/colmena/team/josi.jpg" />
+								</div>
+								<h5 className="title">Josi Guaimas</h5>
+								<span className="position">UX/UI</span>
 								<div className="team-social-outer">
-										<a href="#"><i className="fab fa-twitter"></i></a>
-										<a href="#"><i className="fab fa-facebook-f"></i></a>
 										<a href="#"><i className="fab fa-linkedin-in"></i></a>
-										<a href="#"><i className="fab fa-dribbble"></i></a>
 								</div>
 							</div>
 						</div>
@@ -191,21 +187,19 @@ const Team = () => {
 								{/*<img src="/images/team/member-4.jpg" alt="" />*/}
 								<div className="team-social">
 									<div className="team-social-inner">
-										<a href="#"><i className="fab fa-twitter"></i></a>
-										<a href="#"><i className="fab fa-facebook-f"></i></a>
 										<a href="#"><i className="fab fa-linkedin-in"></i></a>
 										<a href="#"><i className="fab fa-dribbble"></i></a>
 									</div>
 								</div>
 							</div>
 							<div className="team-details">
-								<h5 className="title"><a href="/worker">Martin Lawrence</a></h5>
-								<span className="position">App Developer</span>
+								<div className="img-wrapper">
+										<img src="/images/colmena/team/fer.jpg" />
+								</div>
+								<h5 className="title"><a href="/worker">Fernando Hillebrand</a></h5>
+								<span className="position">Full Stack Dev</span>
 								<div className="team-social-outer">
-										<a href="#"><i className="fab fa-twitter"></i></a>
-										<a href="#"><i className="fab fa-facebook-f"></i></a>
-										<a href="#"><i className="fab fa-linkedin-in"></i></a>
-										<a href="#"><i className="fab fa-dribbble"></i></a>
+										<a href="https://www.linkedin.com/in/fernando-andr%C3%A9s-hillebrand/"><i className="fab fa-linkedin-in"></i></a>
 								</div>
 							</div>
 						</div>
@@ -218,21 +212,19 @@ const Team = () => {
 								{/*<img src="/images/team/member-4.jpg" alt="" />*/}
 								<div className="team-social">
 									<div className="team-social-inner">
-										<a href="#"><i className="fab fa-twitter"></i></a>
-										<a href="#"><i className="fab fa-facebook-f"></i></a>
+										<a href="#"><i className="fab fa-instagram-f"></i></a>
 										<a href="#"><i className="fab fa-linkedin-in"></i></a>
-										<a href="#"><i className="fab fa-dribbble"></i></a>
 									</div>
 								</div>
 							</div>
 							<div className="team-details">
-								<h5 className="title"><a href="/worker">Martin Lawrence</a></h5>
-								<span className="position">App Developer</span>
+								<div className="img-wrapper">
+										<img src="/images/colmena/team/joe.jpg" />
+								</div>
+								<h5 className="title"><a href="/worker">Joe Smith</a></h5>
+								<span className="position">Full Stack Dev</span>
 								<div className="team-social-outer">
-										<a href="#"><i className="fab fa-twitter"></i></a>
-										<a href="#"><i className="fab fa-facebook-f"></i></a>
-										<a href="#"><i className="fab fa-linkedin-in"></i></a>
-										<a href="#"><i className="fab fa-dribbble"></i></a>
+										<a href="https://www.linkedin.com/in/joe-smith-49123b221/"><i className="fab fa-linkedin-in"></i></a>
 								</div>
 							</div>
 						</div>
