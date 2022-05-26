@@ -196,7 +196,7 @@ const Team = () => {
 								<div className="img-wrapper">
 										<img src="/images/colmena/team/fer.jpg" />
 								</div>
-								<h5 className="title"><a href="/worker">Fernando Hillebrand</a></h5>
+								<h5 className="title">Fernando Hillebrand</h5>
 								<span className="position">Full Stack Dev</span>
 								<div className="team-social-outer">
 										<a href="https://www.linkedin.com/in/fernando-andr%C3%A9s-hillebrand/"><i className="fab fa-linkedin-in"></i></a>
@@ -221,7 +221,7 @@ const Team = () => {
 								<div className="img-wrapper">
 										<img src="/images/colmena/team/joe.jpg" />
 								</div>
-								<h5 className="title"><a href="/worker">Joe Smith</a></h5>
+								<h5 className="title">Joe Smith</h5>
 								<span className="position">Full Stack Dev</span>
 								<div className="team-social-outer">
 										<a href="https://www.linkedin.com/in/joe-smith-49123b221/"><i className="fab fa-linkedin-in"></i></a>
