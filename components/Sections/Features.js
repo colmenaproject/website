@@ -18,7 +18,14 @@ const Features = (props) => {
 						</div>
 						
 					</Col>
+
+					<div className="features-thumb text-center image-mobile">
+							<img src="/images/colmena/awesome-features.png" alt="" />
+							<div className="empty-100"></div>
+					</div>
 				</Row>
+
+				
 			
 				<Row className="d-flex align-items-center">
 					
