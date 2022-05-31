@@ -19,7 +19,7 @@ const How = (props) => {
 								tu material reciclable. 
 								Cuando tu contenedor llega al punto de recolección se pesa y 
 								se acredita tu recompensa en la criptomoneda  
- <em>JellyCoin</em>.<br /> Se beneficia a los generadores y recolectores de residuos, mientras se provee de material de buena calidad a las industrias recicladoras. 
+ <em>JellyCoin</em>.<br /> Se beneficia a los generadores y recolectores de residuos, mientras se provee material de buena calidad a las industrias recicladoras. 
 
 </p>
 						</div>
