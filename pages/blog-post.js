@@ -11,8 +11,8 @@ import ToTop from "../components/Sections/ToTop";
 const BlogPost = () => (
 
     <Layout 
-        pageTitle="Naxos - Blog Post" 
-        colorSchema="/assets/colors/blue.css"
+        pageTitle="Colmena - Términos y condiciones" 
+        colorSchema="/assets/colors/colmena-green.css"
     >
         <Loader />
         <Header />
