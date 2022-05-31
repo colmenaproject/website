@@ -14,8 +14,13 @@ const How = (props) => {
 						
 						<div className="section-title text-center">
 							<h3>Cómo funciona?</h3>
-							<p>Aplicando conceptos de economía colaborativa y mediante una APP  
-recompensamos a los generadores y recolectores de residuos, a la industria recicladora, y a las instituciones que buscan compensar su Pasivo Ambiental. Esto es posible gracias a la criptomoneda <em>JellyCoin</em>.<br />
+							<p>Reciclar en Colmena es muy fácil. 
+								Descargá la App y comenzá a registrar 
+								tu material reciclable. 
+								Cuando tu contenedor llega al punto de recolección se pesa y 
+								se acredita tu recompensa en la criptomoneda  
+ <em>JellyCoin</em>.<br /> Se beneficia a los generadores y recolectores de residuos, mientras se provee de material de buena calidad a las industrias recicladoras. 
+
 </p>
 						</div>
 						

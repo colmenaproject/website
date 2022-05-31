@@ -40,6 +40,13 @@ const Layout = (props) => {
 				/* Favicon */
 				<link rel="icon" href="/images/colmena/favicon.png" type="image/x-icon" />
 
+				/* SEO */	
+				<meta property="og:title" content="Colmena - Transformá tus Residuos
+en Oportunidades" key="title" />
+        <meta name="description" content="Reciclar en Colmena es muy fácil. Descargá la App y comenzá a registrar tu material reciclable. Cuando tu contenedor llega al punto de recolección se pesa y se acredita tu recompensa en la criptomoneda JellyCoin." />
+        <meta property="og:image" content="/images/colmena/banner_color.jpg" />
+		
+			
 			</Head>
 
 			{props.children}
