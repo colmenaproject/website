@@ -22,7 +22,7 @@ const Terms = () => (
 
 				<Row>					
 					<Col className="col-12 col-lg-10 offset-lg-1">
-                    <Col className="col-12">								
+                    <Col className="col-12 terms">								
 
 <p>
 <strong><h3>1. Objeto</h3></strong><br />
@@ -140,18 +140,85 @@ Si usted tiene un acuerdo particular con Colmena SAS en relación con Servicios 
     <strong>8.1</strong> Los Usuarios Factory deberán pagar las comisiones de servicio aplicables (“Comisión de Servicio”) por el uso de la Plataforma Colmena y de los Servicios relacionados. Las Comisiones de Servicio se establecerán en un acuerdo separado. Los Usuarios deberán pagar los impuestos y las tasas de terceros que sean aplicables. Colmena SAS no es responsable por el pago de estas tasas.
 </p>
 
-<ul>
-    <li>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia.</li>
-    <li>Curabitur ante risus, congue ut sem quis, volutpat bibendum ante.</li>
-    <li>Quisque in tortor at diam pellentesque imperdiet quis nec nulla.</li>
-</ul>
+<p>
+<br /><br />
+    <strong><h3>9. Declaraciones y garantías de usuarios</h3></strong>
 
-<h1>Heading 1</h1>
-<h2>Heading 2</h2>								
-<h3>Heading 3</h3>
-<h4>Heading 4</h4>
-<h5>Heading 5</h5>
-<h6>Heading 6</h6>
+    <br />
+    <strong>9.1</strong> Al darse de alta en el Sitio Web o la Aplicación el Usuario  declara y garantiza lo siguiente (i) que todos los datos ingresados en la Aplicación o el Sitio web son veraces, exactos y completos, (ii) que utilizará los Servicios con fines estrictamente personales y que no realizará un uso no autorizado de la Aplicación, (ii) que utilizará la Aplicación con fines lícitos y de conformidad con estos Términos y Condiciones y toda otra legislación aplicable, (iii) que no cederá ni transferirá de forma gratuita u onerosa su Cuenta a terceras personas, (iv) que actuará en todo momento de buena fe y en forma diligente y no intentará de ningún modo dañar al Sitio Web, a la Aplicación o a otras personas y que tomará todos los recaudos para evitar que por su culpa o negligencia se produzca un daño a los mismos. 
+    <br /><br />
+    <strong>9.2</strong> Colmena SAS se reserva el derecho de emplear todos los medios legales a su alcance en caso de que el Usuario incumpla las declaraciones contenidas en cualquiera de estos Términos y Condiciones y en particular puede, sin que ello dé lugar a reclamo o indemnización alguna por parte del usuario, inhabilitar y/o dar de baja una cuenta personal cuando existan, a su exclusivo criterio, sospechas de transacciones fraudulentas o ilícitas. 
+</p>
+
+<p>
+<br /><br />
+    <strong><h3>10. Renuncia</h3></strong>
+    <br />
+    <strong>10.1</strong> Colmena SAS no garantiza el acceso y uso continuado o ininterrumpido de los Servicios y Aplicaciones. El sistema puede eventualmente no estar disponible debido a dificultades técnicas o fallas de la red, o por cualquier otra circunstancia ajena a Colmena SAS; en tales casos se procurará restablecerlo con la mayor celeridad posible sin que por ello pueda imputarse algún tipo de responsabilidad a Colmena SAS. 
+<br /><br />
+<strong>10.2</strong> Colmena SAS tampoco garantiza que los resultados obtenidos durante el uso de los Servicios o Aplicaciones sean efectivos, precisos o confiables o que la calidad de los Servicios o Aplicaciones cumplirá con sus expectativas.
+<br /><br />
+<strong>10.3</strong> Colmena SAS se exime específicamente de toda responsabilidad por las acciones resultantes del uso de los Servicios o Aplicaciones. El usuario usa y accede a los Servicios o Aplicaciones por su propia cuenta y riesgo, y es el único responsable de cualquier daño a su sistema técnico o pérdida de datos que resulte del uso y acceso a cualquier Servicio o Aplicación.
+
+</p>
+<p>
+    <br /><br />
+    <strong><h3>11. Limitación de responsabilidad</h3></strong>
+    <br />
+    <strong>11.1</strong> Colmena SAS no será responsable por ningún daño, perjuicio o pérdida derivado del uso de los Servicios o Aplicaciones. Colmena SAS se exime específicamente de toda responsabilidad causada por fallas en el sistema o en el servidor o en Internet y tampoco será responsable por cualquier virus que pudiera infectar el equipo del Usuario como consecuencia del acceso, uso o examen de cualquier Servicio o Aplicación o a raíz de cualquier transferencia de datos, archivos, imágenes, textos, o audio contenidos en el mismo. Los Usuarios no podrán imputar responsabilidad alguna ni exigir indemnizaciones, en virtud de perjuicios resultantes de dificultades técnicas o fallas en los sistemas o en Internet.
+    </p>
+
+    <p>
+<br /><br />
+    <strong><h3>12. Indemnidad</h3></strong>
+    <br />
+    <strong>12.1</strong> En la medida máxima permitida por la ley aplicable, usted se compromete a liberar, defender, indemnizar y mantener a Colmena SAS libre de cualquier reclamo, responsabilidad, daños, pérdidas y gastos, incluyendo, sin limitación, los honorarios legales y contables que surjan de o en cualquier forma relacionados con (i) su incumplimiento de estos Términos o Términos Adicionales, (ii) su uso indebido de la Plataforma Colmena, el Sitio, o cualquiera de los Servicios o Aplicaciones, (iii) su interacción con cualquier Usuario Registrado y cualquier transacción que resulte de la misma, incluyendo sin limitación cualquier lesión, pérdida o daño (ya sea compensatorio, directo, incidental, consecuente o de otro tipo) de cualquier tipo que surja en relación con o como resultado de dicha interacción, transacción, acceso o uso, o (iv) su incumplimiento de cualquier ley, reglamento o derecho de terceros.
+    </p>
+
+    <p>
+    <br /><br />
+    <strong><h3>13. Terminación</h3></strong>
+
+    <br />
+    <strong>13.1</strong> Usted puede dejar de utilizar los Servicios y Aplicaciones en cualquier momento, o según el período de notificación establecido en un acuerdo específico con Colmena SAS o en las Condiciones Particulares. La rescisión de su cuenta no le exime de la obligación de pagar las comisiones de servicio pendientes.
+    <br /><br />
+    <strong>13.2</strong> Salvo que se indique los contrario en las Condiciones Particulares, Colmena SAS puede, a su sólo criterio y en cualquier momento, rescindir o suspender su derecho de uso y acceso a los Servicios o Aplicaciones en los siguientes casos: (i) si incumple cualquier disposición de estos Términos y Condiciones, (ii) si no realiza el pago puntual de las Comisiones de Servicio, si las hubiera, (iii) si estamos obligados a hacerlo por ley (por ejemplo, cuando la prestación de los Servicios o Aplicaciones a usted sea, o pase a ser, ilegal), (iv) si decidimos interrumpir los Servicios o Aplicaciones, total o parcialmente (por ejemplo, si nos resulta inviable seguir ofreciendo los Servicios en su región); o (v) si se ha producido un periodo prolongado de inactividad en su cuenta gratuita.
+    </p>
+
+    <p>
+    <br /><br />
+    <strong><h3>14. Derecho aplicable</h3></strong>
+    <br />
+    <strong>14.1</strong> Estas Condiciones se regirán e interpretarán de acuerdo con la legislación de Argentina. Estos Términos y Condiciones no limitarán los derechos de protección del consumidor o protección de datos que le puedan corresponder según las leyes obligatorias de su país de residencia.   
+    </p>
+
+    <p>
+    <br /><br />
+    <strong><h3>15. Resolución de disputas</h3></strong>
+    <br />
+    <strong>15.1</strong> En el caso de cualquier disputa que surja o esté relacionada con el uso de la Plataforma Colmena, la parte afectada deberá notificar a la otra parte, y las partes intentarán de buena fe resolver el asunto dentro de los diez (10) días siguientes a la fecha de dicha notificación (la “Fecha de notificación”).
+    <br /><br />
+    <strong>15.2</strong> En caso de que dichos intentos no tengan éxito, la disputa podrá ser llevada ante el Tribunal de Posadas como sede legal.
+    </p>
+
+    <p>
+    <br /><br />
+    <strong><h3>16. Miscelánea </h3></strong>
+    <br />
+    <strong>16.1</strong> Salvo que puedan ser complementados por términos y condiciones, políticas, directrices o normas adicionales, estos Términos Generales de Uso y cualquier Término Particular aplicable constituyen el acuerdo completo entre Colmena  y usted en relación con el objeto del mismo, y sustituyen cualquier entendimientos o acuerdos orales o escritos anteriores entre Colmena y usted en relación con el acceso y el uso de la Plataforma Colmena.
+    <br /><br />
+    <strong>16.2</strong> No existe ninguna relación de empresa conjunta, asociación, empleo o agencia entre usted y Colmena como resultado de este Acuerdo o su uso de la Plataforma Colmena.
+    <br /><br />
+    <strong>16.3</strong> Estas Condiciones no confieren ni pretenden conferir ningún derecho o recurso a ninguna persona distinta de las partes.
+    <br /><br />
+    <strong>16.4</strong> Usted no puede ceder o transferir de otro modo los Términos o sus derechos y obligaciones en virtud de los Términos, en su totalidad o en parte, sin nuestro consentimiento por escrito y cualquier intento de hacerlo será nulo. Colmena SAS puede transferir sus derechos en virtud de estos Términos y Condiciones a un tercero sin necesidad de autorización o notificación previa.
+    <br /><br />
+    <strong>16.5</strong> Si alguna de las disposiciones de estos Términos y Condiciones se considera inválida o inaplicable, dicha disposición será eliminada y no afectará a la validez y aplicabilidad de las disposiciones restantes.
+    <br /><br />
+    <strong>16.6</strong> A menos que se especifique lo contrario, cualquier notificación u otras comunicaciones a los usuarios requeridas en virtud de este Acuerdo, se proporcionarán electrónicamente y serán dadas por Colmena SAS a través de correo electrónico, notificación de la Plataforma Colmena, o servicio de mensajería.
+    <br /><br />
+    <strong>16.7</strong> Si tiene alguna pregunta o sugerencia sobre estos Términos y Condiciones, envíenos un correo electrónico a <a href="mailto:info@colmenaproject.io">info@colmenaproject.io</a>
+    </p>
 
 </Col>
 						

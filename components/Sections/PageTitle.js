@@ -14,7 +14,7 @@ const PageTitle = () => {
         <section className="page-title valign parallax" data-image="/images/colmena/terms.jpg" ref={parallax}>
 			
 			{/* <!-- Overlay --> */}
-			<div className="overlay"></div>	
+			<div className="terms overlay"></div>	
 			
 			{/* <!-- Container --> */}
 			<Container>	

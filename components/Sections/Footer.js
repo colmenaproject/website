@@ -73,6 +73,7 @@ export default class Footer extends Component {
 										<li><a href="#factory">Factory</a></li>
 										<li><a href="#jelly">JellyCoin</a></li>
 										<li><a href="#support">FAQ</a></li>
+										<li><a href="/terms">Términos y condiciones</a></li>
 									</ul>
 									
 								</div>
