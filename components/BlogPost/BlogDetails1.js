@@ -157,8 +157,7 @@ const BlogDetails = (props) => {
             </div>*/}
             
             {/* <!-- Delimiter --> */}
-          
-            
+
            
             
         </Col>
