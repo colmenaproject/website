@@ -8,11 +8,12 @@ const Sidebar = () => {
 			{/* <!-- Search --> */}
 			<Row className="sidebar">
 				<Col className="col-12">
-					
+					{/*
 					<div className="search-form">
 						<input type="text" name="search" className="search-field" placeholder="Search..." />
 						<button className="search-submit" type="submit"><i className="fas fa-search"></i></button>
 					</div>
+					*/}
 
 				</Col>
 			</Row>
@@ -22,22 +23,21 @@ const Sidebar = () => {
 				<Col className="col-12">
 					
 					<div className="author-content">
-						<img src="/images/blog/author.jpg" alt="" />
-						<h5>Frances Lawrence</h5>
-						<p className="position">Photographer &amp; Blogger</p>
+						<img src="/images/colmena/team/ivan.jpg" alt="" />
+						<h5>Iván</h5>
+						<p className="position">Director</p>
 						<p>
-							Vestibulum vel est vel lorem porta accumsan eu non ligula. 
-							Maecenas id felis semper.
+						
 						</p>
+						
 					</div>
 					
 					<div className="author-social">
 						<div className="social">
-							<a href="#"><i className="fab fa-twitter"></i></a>
-							<a href="#"><i className="fab fa-facebook-f"></i></a>
-							<a href="#"><i className="fab fa-linkedin-in"></i></a>
-							<a href="#"><i className="fab fa-instagram"></i></a>
-							<a href="#"><i className="fab fa-pinterest-p"></i></a>								
+						
+							<a href="https://www.linkedin.com/in/ivanandrez/"><i className="fab fa-linkedin-in"></i></a>
+							<a href="https://www.instagram.com/ivanandrezu/"><i className="fab fa-instagram"></i></a>
+						
 						</div>
 					</div>
 
@@ -56,55 +56,55 @@ const Sidebar = () => {
 					
 						<Col className="col-4">
 							<a href="#">
-								<img src="/images/blog/instagram-1.jpg" alt="" />
+								<img src="/images/colmena/insta/0.jpg" alt="" />
 							</a>
 						</Col>
 
 						<Col className="col-4">
 							<a href="#">
-								<img src="/images/blog/instagram-2.jpg" alt="" />
+								<img src="/images/colmena/insta/1.jpg" alt="" />
 							</a>
 						</Col>
 
 						<Col className="col-4">
 							<a href="#">
-								<img src="/images/blog/instagram-3.jpg" alt="" />
+								<img src="/images/colmena/insta/2.jpg" alt="" />
 							</a>
 						</Col>
 
 						<Col className="col-4">
 							<a href="#">
-								<img src="/images/blog/instagram-4.jpg" alt="" />
+								<img src="/images/colmena/insta/3.jpg" alt="" />
 							</a>
 						</Col>
 
 						<Col className="col-4">
 							<a href="#">
-								<img src="/images/blog/instagram-5.jpg" alt="" />
+								<img src="/images/colmena/insta/4.jpg" alt="" />
 							</a>
 						</Col>
 
 						<Col className="col-4">
 							<a href="#">
-								<img src="/images/blog/instagram-6.jpg" alt="" />
+								<img src="/images/colmena/insta/5.jpg" alt="" />
 							</a>
 						</Col>
 						
 						<Col className="col-4">
 							<a href="#">
-								<img src="/images/blog/instagram-7.jpg" alt="" />
+								<img src="/images/colmena/insta/6.jpg" alt="" />
 							</a>
 						</Col>
 
 						<Col className="col-4">
 							<a href="#">
-								<img src="/images/blog/instagram-8.jpg" alt="" />
+								<img src="/images/colmena/insta/7.jpg" alt="" />
 							</a>
 						</Col>
 
 						<Col className="col-4">
 							<a href="#">
-								<img src="/images/blog/instagram-9.jpg" alt="" />
+								<img src="/images/colmena/insta/8.jpg" alt="" />
 							</a>
 						</Col>
 
@@ -113,7 +113,7 @@ const Sidebar = () => {
 				</Col>
 			</Row>
 			
-			{/* <!-- Recent posts --> */}
+			{/* <!-- Recent posts --> 
 			<Row className="sidebar">
 				<Col className="col-12">
 
@@ -121,7 +121,7 @@ const Sidebar = () => {
 						<h4>Recent Posts</h4>
 					</header>
 
-					{/* <!-- Post 1 --> */}
+				
 					<div className="recent-post">
 						<div className="recent-post-image" data-count="1">
 							<a href="blog-post">
@@ -140,7 +140,7 @@ const Sidebar = () => {
 						</div>
 					</div>
 					
-					{/* <!-- Post 2 --> */}
+				
 					<div className="recent-post">
 						<div className="recent-post-image" data-count="2">
 							<a href="blog-post">
@@ -160,7 +160,7 @@ const Sidebar = () => {
 
 					</div>
 					
-					{/* <!-- Post 3 --> */}
+				
 					<div className="recent-post">
 						<div className="recent-post-image" data-count="3">
 							<a href="blog-post">
@@ -180,9 +180,9 @@ const Sidebar = () => {
 					</div>
 
 				</Col>
-			</Row>
+			</Row>*/}
 
-			{/* <!-- Categories --> */}
+			{/* <!-- Categories --> 
 			<Row className="sidebar">
 				<Col className="col-12">
 
@@ -197,25 +197,24 @@ const Sidebar = () => {
 					</ul>
 
 				</Col>
-			</Row>
+			</Row>*/}
 			
 			{/* <!-- Tag cloud --> */}
 			<Row className="sidebar">
 				<Col className="col-12">
 
 					<header>
-						<h4>Tag Cloud</h4>
+						<h4>Tags</h4>
 					</header>
 
 					<div className="tags clearfix">
-						<a href="#" className="tag">HTML5</a>
-						<a href="#" className="tag">CSS3</a>
-						<a href="#" className="tag">jQuery</a>
-						<a href="#" className="tag">UX / UI</a>                                
-						<a href="#" className="tag">Web</a>
-						<a href="#" className="tag">Graphic</a>
-						<a href="#" className="tag">Design</a>
-						<a href="#" className="tag">Development</a>
+						<a href="#" className="tag">Reciclaje</a>
+						<a href="#" className="tag">JellyCoin</a>
+						<a href="#" className="tag">BlockChain</a>
+						<a href="#" className="tag">Misiones</a>                                
+						<a href="#" className="tag">Colmena</a>
+						<a href="#" className="tag">Economía Circular</a>
+						<a href="#" className="tag">APP</a>
 					</div>
 
 				</Col>
