@@ -33,8 +33,9 @@ const JellyCoin = (props) => {
 
 								{/* <!-- Content --> */}
 								<div className="content">
-									<h6 className="font-weight-bold mb-2 mt-0">Criptomoneda basada en PoS</h6>
-									<p>Proof of Stake (PoS) es una tecnología respetuosa con el medio ambiente. No necesita de potentes máquinas para actividades de minería, lo que significa que su consumo energético es reducido.</p>
+									<h6 className="font-weight-bold mb-2 mt-0">Criptomoneda basada en DPoS
+</h6>
+									<p>Delegated Proof of Stake (DPoS) es un protocolo blockchain respetuoso con el medio ambiente. No necesita de potentes máquinas para minería, lo que significa que su consumo energético es reducido.</p>
 								</div>
 
 							</div>
@@ -48,7 +49,8 @@ const JellyCoin = (props) => {
 								{/* <!-- Content --> */}
 								<div className="content">
 									<h6 className="font-weight-bold mb-2 mt-0">Respaldo basado en el compromiso</h6>
-									<p>El valor de la criptomoneda está respaldado por el compromiso de los miembros de la comunidad de recuperadores y recicladores. Tu recompensa es directamente proporcional a tu trabajo.</p>
+									<p>El valor de la criptomoneda está respaldado por el compromiso de la comunidad de recuperadores, recolectores e industrias que participan en el ecosistema Colmena. ¡Cuánto más volumen de material consigamos recuperar mayor será el interés de todos en sumarse! 
+</p>
 								</div>
 
 							</div>
@@ -63,7 +65,7 @@ const JellyCoin = (props) => {
 								{/* <!-- Content --> */}
 								<div className="content">
 									<h6 className="font-weight-bold mb-2 mt-0">Descentralización y democratización</h6>
-									<p>Todos pueden participar, siempre y cuando cumplan con su cuota de participación. Lo que evita la concentración de poder en pocas manos y permite que la entrega de recompensas sea más proporcional.</p>
+									<p>Cualquier persona o institución puede acceder a esta nueva tecnología sin necesidad de invertir dinero. Separando correctamente los residuos y coordinando la entrega en un punto de recolección recibís criptos que el futuro podrás intercambiar por otros activos digitales.</p>
 								</div>
 
 							</div>
