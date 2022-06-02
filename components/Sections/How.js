@@ -13,7 +13,7 @@ const How = (props) => {
 					<Col className="col-12 col-md-10 col-lg-6">
 						
 						<div className="section-title text-center">
-							<h3>Cómo funciona?</h3>
+							<h3>¿Cómo funciona?</h3>
 							<p>Reciclar en Colmena es muy fácil. 
 								Descargá la App y comenzá a registrar 
 								tu material reciclable. 
