@@ -30,9 +30,7 @@ export default class Footer extends Component {
 									<p>
 									info@colmenaproject.io
 									</p>
-									<p>
-									+54 3755 227935
-									</p>
+								
 									
 									{/* <!-- Social links --> */}
 									<div className="footer-social">
