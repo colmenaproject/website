@@ -107,7 +107,7 @@ export default class Footer extends Component {
 								
 								{/* <!-- Text --> */}
 								<p className="copyright text-center">
-									© 2022 - <a href="#" target="_blank">Colmena</a>
+									© 2022 - <a href="#" target="_blank">Colmena ®</a>
 								</p>
 								
 							</Col>

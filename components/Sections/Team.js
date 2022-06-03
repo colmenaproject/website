@@ -67,7 +67,7 @@ const Team = () => {
 										<img src="/images/colmena/team/ivan.jpg" />
 								</div>
 								<h5 className="title">Ivan Zubilewicz</h5>
-								<span className="position">Director</span>
+								<span className="position">CEO</span>
 								<div className="team-social-outer">
 										<a href="https://www.linkedin.com/in/ivanandrez/"><i className="fab fa-linkedin-in"></i></a>
 								</div>
