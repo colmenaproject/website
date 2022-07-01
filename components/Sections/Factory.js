@@ -76,27 +76,27 @@ const Factory = (props) => {
 						{/* <!-- Section title --> */}
 						<div className="section-title text-center text-lg-start">
 						
-							<h3>Módulo Factory</h3>
-							<p>Colmena provee a los EcoPuntos y Centros de Reciclaje un sistema para gestionar los materiales recibidos. El módulo cuenta con:</p>
+							<h3>{title}</h3>
+							<p>{subtitle}</p>
 						</div>
 
 						{/* <!-- List --> */}
 						<ul className="overview-list">
 
 							<li>
-								<p><i className="fa-li fas fa-check"></i> Un sistema de pesaje electrónico, automatizado y vinculado al sistema de sofware.</p>
+								<p><i className="fa-li fas fa-check"></i> {parse(item_1)}</p>
 							</li>
 
 							<li>
-								<p><i className="fa-li fas fa-check"></i> Un sistema de gestión de entrada de materiales con una interfaz web de muy sencillo uso.</p>
+								<p><i className="fa-li fas fa-check"></i> {parse(item_2)}</p>
 							</li>
 
 							<li>
-								<p><i className="fa-li fas fa-check"></i> Un sistema de pagos en <em>JellyCoin</em> a los usuarios de Colmena APP por los materiales recibidos y por el transporte realizado.</p>
+								<p><i className="fa-li fas fa-check"></i> {parse(item_3)}</p>
 							</li>
 
 							<li>
-								<p><i className="fa-li fas fa-check"></i> Estádisticas y métricas respecto al material recibido, configurables en rangos de fecha.</p>
+								<p><i className="fa-li fas fa-check"></i> {parse(item_4)}</p>
 							</li>
 
 						</ul>
