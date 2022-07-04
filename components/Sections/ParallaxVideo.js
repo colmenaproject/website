@@ -1,11 +1,24 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import dynamic from 'next/dynamic';
+import { useRouter } from 'next/router';
 import 'react-modal-video/css/modal-video.css';
 
 const ModalVideo = dynamic(() => import('react-modal-video'), { ssr: false });
 
 const ParallaxVideo = () => {
+
+    const router = useRouter();
+
+	let video_text = 
+		router.locale === "en"
+			? "View Video"
+			: router.locale === "es"
+			? "Ver video"
+			: router.locale === "pt"
+			? "Ver vídeo"
+			: "";
+
     const parallax = useRef(null);
     const [isOpen, setOpen] = useState(false);
 

@@ -12,6 +12,7 @@ export default class Footer extends Component {
 	}
 
 	render() {
+
 		return (
 			<footer id="contact-footer">
 				
@@ -84,7 +85,7 @@ export default class Footer extends Component {
 										{/*<h6>Download</h6>*/}
 									
 									<div className="button-store">
-										<a href="https://play.google.com/store/apps/details?id=com.colmena.colmenapp&hl=es_NI&gl=US" className="custom-btn d-inline-flex align-items-center m-2 m-sm-0 mb-sm-3"><i className="fab fa-google-play"></i><p>Disponible en<span>Google Play</span></p></a>
+										<a href="https://play.google.com/store/apps/details?id=com.colmena.colmenapp&hl=es_NI&gl=US" className="custom-btn d-inline-flex align-items-center m-2 m-sm-0 mb-sm-3"><i className="fab fa-google-play"></i><p>available in <span>Google Play</span></p></a>
 										{/*<a href="#" className="custom-btn d-inline-flex align-items-center m-2 m-sm-0"><i className="fab fa-apple"></i><p>Descargar en <span>App Store</span></p></a>*/}
 									</div>
 									

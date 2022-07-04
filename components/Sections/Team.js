@@ -1,7 +1,20 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
+import { useRouter } from 'next/router';
 
 const Team = () => {
+
+	const router = useRouter();
+
+	let title = 
+		router.locale === "en"
+			? "Team"
+			: router.locale === "es"
+			? "Equipo"
+			: router.locale === "pt"
+			? "Equipe"
+			: "";
+
     return (
         <section id="team">
 			
@@ -13,7 +26,7 @@ const Team = () => {
 					<Col className="col-12 col-md-10 col-lg-6">
 						
 						<div className="section-title text-center">
-							<h3>Equipo</h3>
+							<h3>{title}</h3>
 						</div>
 						
 					</Col>

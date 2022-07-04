@@ -1,8 +1,20 @@
 import React, { useState } from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 
 const Header = (props) => {
+    const router = useRouter();
+
+	let contact_text = 
+		router.locale === "en"
+			? "Contact"
+			: router.locale === "es"
+			? "Contacto"
+			: router.locale === "pt"
+			? "Contato"
+			: "";
+
     const [isMobileMenu, setIsMobileMenu] = useState(false);
     const [isSearch, setIsSearch] = useState(false);
 
@@ -113,7 +125,7 @@ const Header = (props) => {
                                     <li className="nav-item">
                                         <Link href="/#contact-footer">
                                             <a className={props.nav !== undefined && props.nav==="contact" ? 'nav-link js-scroll-trigger active' : 'nav-link js-scroll-trigger'}>
-                                                <span>Contacto</span>
+                                                <span>{contact_text}</span>
                                             </a>
                                         </Link>
                                     </li>
