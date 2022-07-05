@@ -52,7 +52,7 @@ const ParallaxVideo = () => {
                                 <i className="fas fa-play"></i>
                             </a>
 
-                            <span className="video-text">Ver Video</span>
+                            <span className="video-text">{video_text}</span>
 
                         </div>
 
