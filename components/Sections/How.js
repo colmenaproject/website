@@ -12,7 +12,7 @@ const How = (props) => {
 			: router.locale === "es"
 			? "¿Cómo funciona?"
 			: router.locale === "pt"
-			? "¿Como funciona?"
+			? "Como funciona?"
 			: "";
 	
 	let subtitle = 

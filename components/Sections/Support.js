@@ -13,7 +13,7 @@ const Support = (props) => {
 			: router.locale === "es"
 			? "Preguntas Frecuentes"
 			: router.locale === "pt"
-			? "Preguntas Frecuentes"
+			? "Perguntas Frequentes"
 			: "";
 	
 	let subtitle = 
