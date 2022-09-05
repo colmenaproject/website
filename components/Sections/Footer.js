@@ -3,6 +3,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 
 export default class Footer extends Component {
 
+	/*
 	componentDidMount() {
 		if(typeof window !== 'undefined') {
 			window.WOW = require('wowjs/dist/wow.js');	
@@ -10,6 +11,7 @@ export default class Footer extends Component {
 	
 		new WOW.WOW().init();
 	}
+	*/
 
 	render() {
 
