@@ -7,11 +7,23 @@ import { Row, Col } from 'react-bootstrap';
 import React, { useEffect, useRef } from 'react';
 import Footer from "../components/Sections/Footer";
 import ToTop from "../components/Sections/ToTop";
+import { useRouter } from 'next/router';
 
 const Terms = () => (
 
+	const router = useRouter();
+
+let pageTitle = 
+		router.locale === "en"
+			? "Colmena - Terms"
+			: router.locale === "es"
+			? "Colmena - Términos y condiciones"
+			: router.locale === "pt"
+			? "Colmena - Términos y condiciones"
+			: "";
+
     <Layout 
-        pageTitle="Colmena - Términos y condiciones" 
+        pageTitle={pageTitle}
         colorSchema="/assets/colors/colmena-green.css"
     >
         <Loader />
@@ -233,5 +245,6 @@ Si usted tiene un acuerdo particular con Colmena SAS en relación con Servicios 
     </Layout>
 
 )
+
 
 export default Terms;
